@@ -1,0 +1,28 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Add here AsciiDoc list items with cross references to all the pages you want
+// to see listed in the navigation menu for this document. See
+// https://docs.antora.org/antora/navigation/list-structures/ for more details
+// on the syntax of this file.
+.$$MAIN
+* xref:summary.adoc[Resum executiu]
+* xref:introduction.adoc[Introducció i justificació de la mesura]
+* xref:objectives.adoc[Objectius de la mesura]
+* xref:governing.adoc[Governança del procés de digitalització]
+* xref:context.adoc[Context]
+* xref:programme.adoc[El programa per a la digitalització oberta: programari lliure i desenvolupament àgil de serveis]
+* xref:themes.adoc[Temes i objectius]
+* xref:lines.adoc[Línies d'actuació]
+* xref:projects.adoc[Projectes emblemàtics dins les línies d'actuació]
+* xref:metrics.adoc[Mètriques d'èxit i resultats]
+* xref:schedule.adoc[Calendari d'implementació]
+* xref:budget.adoc[Pressupost]
+* xref:annexes.adoc[Annexos]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Glossari]
+* xref:index.adoc[Autors i altres informacions del document]
+* link:{attachmentsdir}/barcelona_open_digitisation_{revnumber}.{lang}.pdf[Descarregar PDF]
