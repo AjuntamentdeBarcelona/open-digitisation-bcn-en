@@ -1,77 +1,77 @@
-= Resum Executiu
+= Executive Summary
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-El setembre de 2016 l'Ajuntament de Barcelona endegà un important procés de transformació digital anunciant que els serveis públics han de ser proveïts ja des de l'inici a través de canals digitals, seguint una nova directriu basada en l'orientació al ciutadà, l'ús d'estàndards oberts i programari obert, i d'acord amb una estratègia de dades ètica que posa la privacitat, transparència i els drets digitals al bell mig.
+In September 2016, Barcelona City Council embarked on an important digital transformation process announcing that public services must be provided through digital channels from the outset, following new guidelines oriented towards citizens and the use of open standards and open software and in accordance with an ethical data strategy that puts privacy, transparency and digital rights at the forefront.
 
-La decisió del govern de la ciutat està basada en el Pla Barcelona Ciutat Digital aprovat en mesura de govern el passat mes d'octubre de 2016 i la nova llei espanyola 39/2015 de Procediment Administratiu Comú de les Administracions Públiques.
-Aquesta estableix que a l'any 2020 a l'Estat Espanyol els canals digitals han de ser prioritaris a l'hora de proveir els serveis públics.
-El Pla Barcelona Ciutat Digital estableix com un dels seus objectius prioritaris la millora radical dels serveis púbics digitals amb la finalitat de proveir als ciutadans serveis 24x7 de més qualitat i més ajustats a les seves necessitats.
+The decision taken by the city government is based on the Barcelona Digital City Plan, a government measure approved in October 2016 and new Spanish Law 39/2015 on Common Administrative Procedures for Public Authorities.
+This Law states that by 2020, digital channels must take priority in the provision of public services in the Spanish State.
+The Barcelona Digital City Plan establishes a radical improvement in digital public services as one of its main objectives, with the aim of providing services to citizens on a 24/7 basis that are of higher quality and better adapted to their needs.
 
-L'Institut Municipal d'Informàtica (IMI) és l'instrument per dur a terme aquesta transformació.
-L'Ajuntament de Barcelona va crear el passat 2016 un Comitè de Transformació Digital i, en paral·lel, l'IMI va crear el grup d'impuls de la Transformació Digital on es troben professionals dels diferents àmbits tecnològics.
-Ambdós instruments han estat creats per impulsar i governar aquest important procés.
+The Municipal Institute of Information Technology (IMI) is instrumental in enabling this transformation to be carried out.
+In 2016, Barcelona City Council created a Digital Transformation Committee, and the IMI put together a group for the promotion of Digital Transformation made up of professionals from various technological areas.
+Both of these mechanisms were set up to drive and govern this important process.
 
-El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis, creat per el Comissionat i l'IMI, l'octubre del 2016, després del llançament del Pla Digital de Transformació, és l'impulsor de la innovació i l'excel·lència tècnica enfocat al lliurament de resultats.
-Aquest programa promou, a més, una cultura de la innovació, transparència i aprenentatge continu a tot l'Ajuntament, on es destaca:
+The Open Digitisation Programme: Free Software and Agile Development of Services, created by the Commissioner and the IMI in October 2016, following the launch of the Digital Transformation Plan, is the impetus behind technical innovation and excellence focused on the delivery of results.
+In addition, this programme promotes a culture of innovation, transparency and continuous development throughout the whole of the City Council, emphasising:
 
-* La promoció del desenvolupament i lliurament de serveis digitals àgils, oberts i ètics.
+* The promotion of the development and delivery of agile, open and ethical digital services.
 
-* La promoció del desenvolupament d'habilitats i capacitats internes en disseny centrar en l'usuari i metodologies àgils a fi de recuperar el control dels serveis digitals.
+* The promotion of the development of internal design skills and capabilities focusing on users and agile methodologies, for the purposes of regaining control of digital services.
 
-* La obertura de la contractació pública fent-la més transparent, senzilla i objectiva, tot reduint la burocràcia.
-La innovació en els processos de contractació permetrà a la vegada diversificar els proveïdors de tecnologia.
+* Opening up public procurement, making it more transparent, simple and objective, while reducing the bureaucracy involved.
+Innovation in the procurement processes will also enable diversification in technology providers.
 
-* La creació, a través d'una plataforma de mercat digital, d'un grup diversificat de proveïdors locals experts.
+* The creation, through a digital market platform, of a diversified group made up of expert local providers.
 
-* La promoció de l'ús de metodologies àgils per als serveis digitals, internament i en les relacions amb proveïdors.
+* The promotion of the use of agile methodologies in digital services, both internally and in provider relations.
 
-* La revisió dels procediments de contractació d'actius i serveis tecnològics per reforçar la sobirania tecnològica i de les dades.
+* The revision of procurement procedures for technology assets and services to reinforce technological and data sovereignty.
 
-* L'establiment de l'ús del programari lliure i de codi obert per als sistemes municipals, excepte circumstàncies excepcionals i justificades.
+* The use of free and open source software in municipal systems, except in exceptional and justified circumstances.
 
-* La fixació de pràctiques tecnològiques basades en arquitectures i estàndards oberts.
+* The establishment of technological practices based on open architectures and standards.
 
-Aquesta mesura de govern proporciona una visió global del programa de transformació i dels canvis incrementals proposats, exposa l'estructura de governança de la transformació, la seva orientació eminentment pràctica basada en l'establiment de mesures clares i lliuraments concrets, i proporciona un full de ruta compartit.
+This government measure provides an overview of the transformation programme and the proposed incremental changes.
+It sets forth the structure how the transformation will be governed, its eminently practical orientation, based on establishing clear measures and specific deliverables, and provides a shared roadmap.
 
-La mesura ens portarà economia de recursos i més eficàcia gràcies a la implementació de processos àgils, a l'hora que acostarem i facilitarem a la població eines per interactuar amb l'administració de manera més eficaç.
-Amb la gestió oberta de les dades i l'ús d'eines de programari lliure garantirem l'accés universal, la millora de la transparència i estarem posant les bases per noves iniciatives basades amb l'aprofitament de les dades i la creació d'una xarxa d'experts en codi obert que aportarà fortalesa i independència a l'administració.
+The measure will provide savings in resources and more efficiency through the implementation of agile processes, while providing citizens with the tools they need to interact with the local authority more efficiently.
+Through open data management and the use of free software tools, we will be guaranteeing universal access, improvements in transparency and laying the foundations for new initiatives based on harnessing data and creating a network of open source experts that will make the local authority more resilient and independent.
 
-La mesura enfoca el lliurament de serveis digitals àgils, el procés per assolir la sobirania tecnològica i la migració a programari lliure i estàndards de codi obert.
+This measure focuses on the delivery of agile digital services, the process for accomplishing technological sovereignty and the migration to free and open software and open standards
 
-En els annexes d'aquesta mesura de govern trobarem documents que defineixen els primers estàndards i donen directrius pels temes clau del programa.
+The annexes to this government measure contain documents that define the main standards and give guidelines for the core areas in the programme.
 
-Aquests documents són:
+These documents include:
 
-* L'Estàndard de Serveis Digitals.
+* The Digital Services Standard.
 
-* El Codi de Pràctiques Tecnològiques.
+* The Code of Technological Practices.
 
-* Les Metodologies Àgils a l'Ajuntament de Barcelona.
+* Agile Methodologies of Barcelona City Council.
 
-* Guia de Sobirania Tecnològica.
+* Technological Sovereignty Guide.
 
-* Detalls del Pla de Migració a Codi Obert.
+* Details of the Migration Plan to Open Source.
 
-* Guia de Compra pública de Tecnologia.
+* Public Procurement of Technology Guide.
 
-L'ús responsable i ètic de dades, és un element L'ús responsable i ètic de dades, és un element essencial dins Pla de Transformació Digital de l'Ajuntament, en especial la estratègia de Dades Obertes i el Data Commons, els projectes “Data Driven” i la interoperabilitat basada en formats de dades oberts.
-Les corresponents directrius i la seva implementació es desenvoluparan en una nova mesura de govern sobre la Estratègia de l'Ús Responsable i Ètic de Dades a l'Ajuntament de Barcelona, on es concretaran els detalls tècnics, processos i responsabilitats.
+The responsible and ethical use of data is a key element within Barcelona City Council’s Digital Transformation Plan, especially the Open Data and Data Commons strategies, “Data Driven” projects and interoperability based on open data formats.
+The corresponding directives and their implementation will be developed in a new government measure on the Strategy for Responsible and Ethical Use of Data in Barcelona City Council, where its technical details, processes and responsibilities will be detailed.
 
-En aquesta mesura de govern també s'explica com s'aplicaran les metodologies de desenvolupament àgil a l'Ajuntament de Barcelona, transformant els equips de producte verticals en grups de treball àgils orientats al servei a través de projectes emblemàtics.
-És per això que l'IMI està posant en marxa una Oficina Tècnica Àgil i un equip de projectes àgils.
+This government measure also explains how agile development methodologies will be applied in Barcelona City Council, by transforming vertical product teams into agile service orientated work groups through flagship projects.
+That is why the IMI is putting an Agile Technical Office and an agile projects team into operation.
 
-Des d'una perspectiva estrictament tecnològica, l'objectiu és la creació d'un ecosistema i una infraestructura pública i oberta d'aplicacions i serveis interoperables i reutilitzables.
-Per això, cal canviar la forma en que l'administració pública opera mitjançant l'ús d'estàndards oberts i programari lliure i de codi obert, implementant interfícies informàtiques (API) obertes, públiques i ben documentades que proporcionin l‘accés a les dades obertes de l'Administració per a permetre que el sector TIC i, fins i tot altres administracions, puguin col·laborar amb l'Ajuntament per a lliurar aplicacions i serveis digitals àgils, oberts i ètics.
+From a purely technological perspective, the objective is to create a public and open ecosystem and infrastructure composed of interoperable and reusable applications and services.
+So, the way in which the public authority operates must be changed through the use of open standards and free and open source software, by implementing open, public and well documented application programming interfaces (APIs) that provide access to the City Council’s open data for the purposes of enabling the ICT sector, and even other authorities, to collaborate with the City Council to deliver agile, open and ethical applications and digital services.
 
-Els serveis que primer es beneficiaran d'aquests canvis són: el nou portal de d'atenció ciutadana, els serveis al mòbil per a la ciutadania, la nova agenda d'actes i equipaments de la ciutat, el quadre de comandament sobre la ciutat obert als ciutadans, el portal pels proveïdors de tecnologia, i el nou servei d'identitat digital al mòbil.
+The services which will be first to benefit from these changes include: the new citizen help and information portal, mobile phone services for citizens, the new calendar of events and facilities in the city, the open city dashboard for citizens, the technology providers portal and the new mobile digital identity service.
 
-Amb la formació dels nous equips àgils, comprendrem les capacitats que necessitem i ens permetrà desenvolupar un pla de contractació i un programa de creació de competències internes per impulsar la transformació.
-Paral·lelament, l'Ajuntament complementarà les competències internes amb habilitats i serveis proveïts per les empreses més innovadores del sector, a través d'una contractació innovadora i la creació d'una plataforma digital de contractació.
+The formation of new agile teams will enable us to acquire the capabilities we need and to develop a recruitment plan and an internal skills creation programme for promoting this transformation.
+At the same time, internal capabilities will be complemented with skills and services provided by the most innovative companies in the sector, brought in by the City Council, through innovative procurement and the creation of a digital procurement platform.
 
-*La transformació digital i la innovació no son el destí o punt d'arribada sinó un viatge, un procés que mai s'acaba* i en el que les iteracions es van succeint una darrera l'altre fins assolir el resultat desitjat.
-Els productes o serveis digitals i les seves interfícies evolucionen, com un organisme viu, d'acord amb les necessitats dels ciutadans i el canvi tecnològic.
-
-El mateix Programa de Transformació Àgil evoluciona contínuament i la nostra ambició és seguir endavant i fer molt més del que aquesta mesura de govern exposa, doncs aquesta estableix només les bases d'un procés de millora continua.
+*Digital transformation and innovation are not a destination or point of arrival but rather a journey, an endless process*, where steps are repeated one after the other until the desired result is reached.
+Digital products and services and their interfaces are evolving, like a living organism, in accordance with the needs of citizens and changes in technology.
+The Agile Transformation Programme itself is continuously evolving and our ambition is to go ahead and do far more than what this government measure states, as it only establishes the bases for a process of continuous improvement.

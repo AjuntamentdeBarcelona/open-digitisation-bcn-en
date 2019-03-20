@@ -1,18 +1,18 @@
-= Introducció i justificació de la mesura
+= Introduction and justification for the measure
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-L'era digital està modificant profunda i ràpidament la societat i, per tant, el model de relació dels ciutadans amb les empreses i les administracions públiques.
-La convergència entre la transformació digital, la participació ciutadana i la transparència obliga a canviar els models dels organismes públics per a que tinguin la capacitat d'adequar-se a les noves necessitats creades.
-Aquesta transformació representa un gran repte pel que fa a l'Ajuntament, amb una activitat molt regulada per condicionants legals, econòmics i de recursos humans.
+The digital era is making profound and rapid changes to our society and, as a result, the model of citizens’ relations with companies and public authorities.
+By bringing together digital transformation, citizen participation and transparency we are obliged to change the models used by public bodies so that they have the capacity to adapt to the new needs that are created.
+This transformation represents a great challenge for the City Council, with activities that are highly regulated by legal, economic and human resource requirements.
 
-El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis de l'Ajuntament de Barcelona vol proporcionar una orientació enfocada a servei i a la sobirania tecnològica per revitalitzar la totalitat del consistori, consolidant el govern dels serveis digitals, generant perfils i capacitats en programari lliure i de codi obert i us ètic de les dades i transformant la contractació pública.
-La implementació d'aquest enfocament, basat en metodologies àgils i ús de tecnologies obertes, ha demostrat eficiències en termes de prestació (_performance_) i costos que l'Ajuntament ha d'aprofitar.
+The Open Digitisation Programme: Free Software and Agile Development of Services at Barcelona City Council aims to provide guidelines focused on service delivery and technological sovereignty in order to revitalise the entire municipality, by consolidating the governance of digital services, by generating profiles and capabilities in free and open source software and the ethical use of data and by transforming public procurement.
+The implementation of this approach, based on agile methodologies and the use of open technologies, has demonstrated efficiency in performance and costs, which the City Council must take advantage of.
 
-En aquesta línia, obre la contractació pública i la fa més transparent, senzilla i objectiva, generant les condicions per la participació d'un conjunt diversificat d'indústria local de talent, potenciant a les petites i mitjanes empreses del país.
-Alhora es revisa, també, els processos contractuals actuals per assegurar la sobirania tecnològica i de les dades.
-Els procediments de contractació també s'han de transformar per tal d'acostarlos a la realitat dels serveis oferts a la ciutadania i fer possible que aquestes mesures es poden aplicar.
+It is along these lines that the measure opens up public procurement and makes it more transparent, simple and objective, by creating the right conditions for participation from a diverse set of local industry talent and encouraging the country’s small and medium sized businesses.
+Likewise, the current procurement processes are being reviewed to ensure technological and data sovereignty.
+Procurement procedures must also be transformed for the purposes of bringing them into line with the reality of the services offered to the public and making it possible for these measures to be applied.
 
-Per tal d'assolir l'objectiu principal i transformar l'Ajuntament de Barcelona en una entitat líder en la digitalització del sector públic, caldrà definir els passos a seguir per avançar i construir serveis públics “digitals per defecte” a Barcelona, oberts, més senzills, modulars, interoperables i que procuraran evitar bloquejos amb proveïdors de solucions propietàries.
+To achieve the main objective and transform Barcelona City Council into a leading entity in the digitisation of the public sector, we will have to define the steps to be followed for advancing and building “digital by default” public services in Barcelona that are more open, simple, modular, interoperable and which aim to prevent blockages with proprietary solution providers.

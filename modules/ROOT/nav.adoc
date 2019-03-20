@@ -8,10 +8,10 @@ include::{partialsdir}/README.adoc[tag=metadata]
 // https://docs.antora.org/antora/navigation/list-structures/ for more details
 // on the syntax of this file.
 .$$MAIN
-* xref:summary.adoc[Resum executiu]
-* xref:introduction.adoc[Introducció i justificació de la mesura]
-* xref:objectives.adoc[Objectius de la mesura]
-* xref:governing.adoc[Governança del procés de digitalització]
+* xref:summary.adoc[Executive Summary]
+* xref:introduction.adoc[Introduction and justification for the measure]
+* xref:objectives.adoc[Objectives of the measure]
+* xref:governing.adoc[Governing the digitisation process]
 * xref:context.adoc[Context]
 * xref:programme.adoc[El programa per a la digitalització oberta: programari lliure i desenvolupament àgil de serveis]
 * xref:themes.adoc[Temes i objectius]
@@ -23,6 +23,6 @@ include::{partialsdir}/README.adoc[tag=metadata]
 * xref:annexes.adoc[Annexos]
 
 .$$BOTTOM
-* xref:{lang}/glossary:ROOT:glossary.adoc[Glossari]
-* xref:index.adoc[Autors i altres informacions del document]
-* link:{attachmentsdir}/barcelona_open_digitisation_{revnumber}.{lang}.pdf[Descarregar PDF]
+* xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
+* xref:index.adoc[Authors and other informations of the documents]
+* link:{attachmentsdir}/barcelona_open_digitisation_{revnumber}.{lang}.pdf[Download PDF]

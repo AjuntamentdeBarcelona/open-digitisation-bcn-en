@@ -1,25 +1,25 @@
-= Governança del procés de digitalització
+= Governing the digitisation process
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-Aquesta transformació és un procés llarg que requereix de la implicació de l'administració, així com, del sector TIC i de la societat.
-Per tal de que aquest procés aconsegueixi els seus objectius i s'ajusti al calendari establert caldrà que disposi d'una governança específica.
+This transformation constitutes a lengthy process requiring the involvement of the local authority, as well as the ICT sector and society.
+The process must have a specific form of governance so that it can meet its objectives and keep to the established schedule.
 
-Per a la governança d'aquest procés s'utilitzaran diversos instruments entre els que podem destacar el Comissionat de Tecnologia i Innovació Digital, la Comissió de Transformació Digital de Barcelona i la Ponència d'Innovació, sense oblidar els altres agents de la ciutat com empreses o representants de la societat civil.
+Several mechanisms will be used for the governance of this process, including, notably, the Commissioner for Digital Technology and Innovation, the Barcelona Digital Transformation Commission and the Innovation Committee, not to mention other players in the city such as companies and representatives of civil society.
 
-Els principals elements de governança són:
+The main governance methods include:
 
-* *Comissionat/da de Tecnologia i Innovació digital.*
-Una de les seves missions és redissenyar i reorientar la tecnologia de Barcelona i les estratègies i polítiques d'innovació digital a través d'un procés amb participació activa d'actors claus de la ciutat.
-Dos dels eixos principals són la digitalització dels serveis públics i l'impuls d'un l'ecosistema innovador digital, que inclou la relació entre les administracions públiques, la ciutadania, les empreses i el món acadèmic.
-El comissionat disposa d'una oficina de seguiment i impuls de projectes que ha d'assegurar la coordinació municipal i mesurar l'impacte de la implementació d'aquest programa.
+* *Commissioner for Digital Technology and Innovation.*
+One of her missions is to go through a process of redesigning and reorienting Barcelona’s technology and digital innovation strategies and policies through a process involving the active participation of key players in the city.
+Two of the main areas are the digitisation of public services and the promotion of an innovative digital ecosystem, which includes the relationship between public authorities, citizens, businesses and the academic world.
+The commissioner has an office available for monitoring and promoting projects intended to ensure municipal coordination and measure the impact of the implementation of this programme.
 
-* *Comissió de Transformació Digital de Barcelona.*
-És un instrument municipal transversal creat per governar la definició i execució del Pla de Transformació Digital i assegurar el seu alineament amb l'estratègia de l'Ajuntament.
-Dins de la seva funció principal de prioritzar i coordinar les iniciatives TIC de l'Ajuntament, analitzarà també la situació i evolució del programa de digitalització i constituirà un espai de debat, discussió i proposta entre els diferents àmbits i sectors municipals.
+* *Barcelona Digital Transformation Commission.*
+This is a transversal municipal mechanism created to govern the definition and implementation of the Digital Transformation Plan and ensure its alignment with the City Council’s strategy.
+Part of its main function for prioritising and coordinating the City Council’s ICT initiatives will also involve analysing the situation and development of the digitisation programme and constituting a space for de-bate, discussion and proposals among the various municipal areas and sectors.
 
-* *Ponència d'Innovació Digital.*
-És un instrument municipal transversal a les diferents àrees de l'Ajuntament encarregat de fer operatiu el disseny i la implementació de l'estratègia i polítiques d'innovació.
-La seva funció serà, entre altres, assegurar la implicació i l'alineament de les diferents àrees municipals en aquest procés.
+* *Digital Innovation Committee.*
+This is a crosscutting municipal mechanism within the City Council’s various areas, tasked with putting the design and implementation of the innovation strategy and policies into operation.
+Its function will be to ensure, among other things, the involvement and alignment of the various municipal areas in this process.
