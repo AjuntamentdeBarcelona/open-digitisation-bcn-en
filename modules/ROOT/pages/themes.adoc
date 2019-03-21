@@ -1,181 +1,190 @@
-= Temes i objectius
+= Themes and objectives
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-Per aconseguir els objectius del Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis caldrà treballar per lliurar serveis digitals àgils i centrats en l'usuari, mitjançant tres eixos principals d'acció:
+If the objectives of the Open Digitisation: Free Software and Agile Service Development Programme are to be achieved, work must be carried out to deliver agile digital services centred on users, through three main action areas:
 
-* Enfortir la *sobirania tecnològica*, a través de l'adopció de programari lliure i la contractació pública oberta.
+* Strengthening *technological sovereignty*, through the adoption of free software and open public procurement.
 
-* Adoptar les *metodologies àgils*, introduint un marc de treball àgil.
+* Adopting agile methodologies, introducing an agile work framework.
 
-* Millorar el *govern de dades*, mitjançant una nova estratègia de dades.
+* Improving *data governance*, through a new data strategy.
 
-Això es farà mitjançant un conjunt d'actuacions en cadascun dels temes que conformen el programa (Figura 2).
+This will be achieved through a series of actions in each of the areas that make up the programme (Figure 2)
 
-image:open-digit-p20-areas-{lang}.svg[_FIGURA 2: Àrees d'actuació_, align="center"]
+image:open-digit-p20-areas-{lang}.svg[_FIGURE_ 2: align="center"]
 
-== Serveis digitals àgils i centrats en l'usuari
+== Agile and user-centred digital services
 
-Cal canviar la forma de dissenyar i construir els nous serveis públics pensantlos ja com a digitals des de bon principi, és el que en el món anglosaxó s'anomena “digital first” (digital des del seu inici).
-Cal dissenyar-los posant el ciutadà al centre i construintlos de forma àgil i gradual per a reduir els temps d'espera per a la posada en marxa.
-Cal que els treballadors municipals responsables del servei, així com els ciutadans, participin activament en el disseny, construcció i manteniment d'aquests serveis.
-Aquest procés de canvi, inspirat en els exemples de les administracions anglosaxones, proporcionarà nous serveis públics més ajustats a les necessitats reals de la ciutadania tot reduint el temps de desenvolupament.
+We need to change the way we design and build new public services, by considering them as digital from the outset, in other words, “digital first”.
+They need to be designed by putting the citizen at the centre and built in an agile and gradual way to reduce waiting times for their launches.
+Municipal workers who are responsible for the service, as well as citizens, have to play an active role in the design, construction and maintenance of these services.
+This process of change, inspired by the examples of Anglo-American administrations, will provide new public services that are better adapted to the real needs of citizens, while reducing development time.
 
-Els serveis digitals àgils són el punt de partida per assolir els objectius d'aquest programa de digitalització.
-Aquests permeten als ciutadans, empreses i organitzacions relacionar-se amb el govern de la ciutat de forma més fàcil, ràpida i econòmica, doncs seran serveis senzills, ràpids, interactius i disponibles arreu i sempre, serveis que hauran estat dissenyats per satisfer les necessitats de la ciutadania i dels treballadors treballadores municipals.
-Desenvoluparem serveis pensats en digital des del seu inici i fàcilment adaptables a les noves necessitats.
+Agile digital services form the starting point for achieving the objectives of this digitisation programme.
+These services allow citizens, businesses and organisations to interact with the city government in an easier, faster and more economical way.
+These simple, fast and interactive services will be available at all times and anywhere and which will have been designed to satisfy the needs of citizens and municipal workers.
+We will develop services considered digital from the outset and easily adaptable to new needs.
 
-== Metodologies àgils
+////
+            REVISAR Si HO FIQUEM
 
-Les metodologies àgils aportaran les eines necessàries per a dissenyar, construir i prestar de manera flexible i eficient els serveis digitals als ciutadans i als treballadors municipals.
+Please consult the Digital Services Standard (Annex 12.1) as the reference document on this topic.
+////
 
-La introducció d'un marc de treball àgil, necessitarà:
+== Agile Methodologies
 
-* La creació d'equips multidisciplinaris.
+Agile methodologies will provide the tools needed for designing, building and delivering digital services to citizens and municipal workers in a flexible and efficient way.
 
-* La visió global de tot el cicle de vida del servei.
+The introduction of an agile working framework will require:
 
-* La introducció progressiva de metodologies àgils.
+* The creation of multidisciplinary teams
 
-* La implicació de tota l'organització.
+* An global overview of the entire service life cycle
 
-* La realització de projectes pilot.
+* The gradual introduction of agile methodologies
 
-* La millora contínua a partir de les aportacions de totes les parts.
+* The involvement of the whole organisation
 
-A partir de les línies d'actuació identificades, detallades en el punt 07, s'aconseguirà:
+* Carrying out of pilot projects
 
-* Posar major focus en l'usuari final empoderant a l'usuari per a la presa de decisions.
+* Continuous improvement based on contributions from all the parties.
 
-* Escurçar el temps de desenvolupament i millorar a la vegada la qualitat tècnica.
+Starting from these action lines, as listed in point 07, we will be able to:
 
-* Augmentar la freqüència de millores i implementar la millora continua.
-Lliurar més freqüentment, de manera fiable, per avançar el retorn de la inversió, i sistematitzar la millora continua basada en cicles curts d'inspecció i adaptació.
+* Put more focus on the end-user and empower users in the decision making process.
 
-* Posar focus en la col·laboració i transparència.
+* Shorten development time and simultaneously improve technical quality.
 
-* Incrementar l'orientació al valor mantenint el control dels desenvolupaments, essent més flexibles i lliurant més valor a l'usuari final.
+* Increase the frequency of improvements and implement continuous improvements.
+Deliver more frequently and reliably, to advance the return on investment, and standardise continuous improvement based on short monitoring and adaptation cycles.
 
-EEls projectes emblemàtics en aquesta tema, amb un pressupost total de 7 milions d'euros i un calendari que va des de mitjans del segon trimestre de 2017, fins al final del segon trimestre del 2019.
+* Put the focus on collaboration and transparency.
 
-* Quadre de Comandament per a la gerència municipal.
+* Increase the orientation towards value by keeping control of developments, being more flexible and delivering more value to end-users.
 
-* Portal d'Atenció ciutadana.
+The total budget for the flagship projects in this area is 7 million euros.
+The timetable for these projects runs from the middle of the second quarter of 2017, up to the end of the second quarter of 2019.
 
-* Serveis Municipals al mòbil.
+These projects are:
+
+* Municipal Management Dashboard.
+
+* Citizen Help and Information Portal.
+
+* Mobile Municipal Services.
 
 * Decidim.Barcelona.
 
-* Sistema d'informació de drets socials.
+* Information system for social rights.
 
 * ASIA.
 
-* Sistema d'informació del Institut Municipal d'Esports.
+* Municipal Sports Institution’s Information System.
 
-* E-administració.
+* E-Government.
 
-== Sobirania tecnològica i Tecnologies obertes
+== Technological sovereignty and Open Technologies
 
-Barcelona exigeix la seva sobirania tecnològica, i afronta amb decisió la transició a programari lliure i estàndards oberts per aquesta finalitat.
-S'ha establert un codi de bones pràctiques sobre tecnologies obertes que guiarà la transformació interna, promourà la reutilització i la compartició de codi amb i de tercers, i el desenvolupament i/o utilització de solucions de govern comuns.
-La transició a codi i estàndards oberts té per objectiu reforçar la sobirania tecnològica, i comença amb el Pla de Migració a Codi Obert (annex 12.5).
+Barcelona requires technological sovereignty, and is decisively tackling the transition to free software and open standards for this purpose.
+The best practices in this area are being studied and a migration plan will be designed and a code of best practices on open technologies established to guide internal transformation and promote third-party reuse and sharing of software and the development and/or use of shared government solutions.
+The transition to open source software and open standards is aimed at reinforcing technological sovereignty (see Annex 12.5).
 
-Els sistemes basats en programari lliure i estàndards oberts ofereixen múltiples beneficis:
+Systems based on free software and open standards offer multiple benefits:
 
-* *Transparència*: el codi font pot ser examinat i auditat per qualsevol que tingui els coneixements tècnics suficients, sense necessitat de permís explícit del fabricant o de l'Ajuntament.
-Sense aquesta propietat es fa difícil confiar en la neutralitat i seguretat d'una quantitat creixent de processos governamentals i administratius que es troben implementats en forma de software, com els processos de votació.
+* *Transparency:* the source code can be examined and audited by anyone who has sufficient technical knowledge, without the explicit permission of the developer or the City Council.
+Without this property it is difficult to rely on the neutrality and security of an increasing number of governmental and administrative processes that are implemented through software, such as voting processes.
 
-* *Interoperabilitat*: l'ús de formats i estàndards oberts permet que diferents sistemes, possiblement de diferents fabricants, funcionin conjuntament sense obstacles legals i tècnics.
-Això obre possibilitats d'integració entre diferents sistemes, per exemple per reutilitzar dades i millorar processos.
-També garanteix que no s'obliga als ciutadans i ciutadanes a utilitzar solucions tecnològiques de proveïdors específics per interactuar amb l'Administració.
+* *Interoperability:* the use of open formats and standards allows different systems, possibly from different manufacturers, to work together without any legal and technical obstacles.
+This opens up possibilities for integration between different systems, for example to reuse data and improve processes.
+It also guarantees that citizens are not obliged to use technological solutions from specific providers to interact with the Administration.
 
-* *Sobirania*: la transparència i la interoperabilitat redueixen molt la dependència respecte d'estratègies comercials dels fabricants.
-L'usuari, en aquest cas l'Ajuntament, pot decidir amb més llibertat quins sistemes evolucionar, redimensionar o substituir, així com establir polítiques pròpies en quant a seguretat, privacitat, actualitzacions i accés als sistemes.
-En el cas de les organitzacions, la sobirania també fomenta el control sobre els processos propis i la generació i conservació de coneixement.
+* *Sovereignty:* transparency and interoperability greatly reduce dependence on commercial strategies of manufacturers.
+The user, in this case the City Council, can decide with greater freedom what systems to evolve, resize or replace, as well as establish its own policies regarding security, privacy, updates and access to systems.
+In the case of organizations, sovereignty also fosters control over their own processes and the generation and conservation of knowledge.
 
-* *Flexibilitat*: els sistemes poden adequar-se millor a les necessitats dels usuaris i usuàries, i es poden adaptar i estendre a mida que aquestes necessitats evolucionen, sense dependre de cap proveïdor concret.
-No només el desenvolupament és més flexible, també l'avaluació d'alternatives resulta més senzilla i barata, i les condicions d'operació i manteniment es poden modificar més fàcilment.
+* *Flexibility:* systems can be better adapted to the needs of users and users, and can be adapted and extended as these needs evolve, without depending on any particular provider.
+Not only is development more flexible, also the evaluation of alternatives is easier and cheaper, and the conditions of operation and maintenance can be modified more easily.
 
-* *Sostenibilitat*: la interoperabilitat permet que es puguin substituir aquelles parts dels sistemes que cal renovar sense que les dades no quedin mai inservibles.
-Una major sobirania implica també un menor risc d'obsolescència de qualsevol part dels sistemes, inclòs el hardware.
-La col·laboració (entre persones i entitats) que promouen les llicències lliures pot ser de gran ajuda a l'hora de fer més estable i durador un sistema.
+* *Sustainability:* interoperability allows you to replace those parts of the systems that need to be renewed without the data being ever useless.
+Greater sovereignty also implies a lower risk of obsolescence of any part of the systems, including hardware.
+Collaboration (between people and entities) that promote free licenses can be a great help in making a system more stable and lasting.
 
-* *Eficiència*: factors com l'estalvi de costos associats al pagament de llicències, una major competència entre proveïdors, un menor risc d'obsolescència, i la possibilitat de compartir costos amb altres usuaris i entitats, fan que el programari lliure i basat en estàndards oberts sigui la millor opció per garantir l'eficiència que la llei exigeix a l'Administració.
-La ingent base de programari combinable existent permet en molts dominis aconseguir solucions molt adaptades a l'usuari final amb un baix ús de recursos.
+* *Efficiency:* factors such as the cost savings associated with the payment of licenses, increased competition among suppliers, a lower risk of obsolescence, and the possibility of sharing costs with other users and entities, make free and standard-based open source software the best option to guarantee the efficiency that the law demands from the Administration. The huge base of existing combinable software allows us to reach solutions in many domains that are adapted to end users with a low use of resources.
 
-* *Fiabilitat i seguretat*: la independència d'estratègies comercials fa que l'usuari pugui exigir serveis de major qualitat i aprofitar-se de totes les correccions i millores aportades per la comunitat d'usuaris i desenvolupadors de cada eina.
+* *Reliability and security:* the independence from commercial strategies makes users able to demand higher quality services and take advantage of all the corrections and improvements provided by a community of users and developers of each tool.
 
-* *Innovació*: la transparència, i una afortunada combinació de col·laboració i competència, fan del programari lliure un terreny enormement fèrtil per la innovació tecnològica, social i de processos.
-D'aquesta producció de coneixement se'n beneficien directament els productors i els usuaris, i indirectament tota la societat.
+* *Innovation:* transparency, and a fortunate combination of collaboration and competition, make free software an enormously fertile ground for technological, social and process innovation.
+This production of knowledge directly benefits producers and users, and indirectly the whole society.
 
-Els principals punts ens els que s'hauria de treballar són:
+The main points we need to work on are:
 
-* Implementar un pla de migració i desenvolupament progressiu de programari lliure.
+* Implementing a migration plan and the gradual development of free software.
 
-* Publicar i compartir programari i continguts de l'Ajuntament de Barcelona sota llicències de programari i continguts lliures.
+* Publishing and sharing Barcelona City Council’s software and contents under free software and content licenses.
 
-* Transformar la contractació pública per fomentar la creació, ús i reutilització del programari lliure i de codi obert.
+* Making changes to public procurement to boost the creation, use and reuse of free and open source software.
 
-* Exigir l'ús d'estàndards oberts per a les tecnologies, dades i altres informacions de la ciutat.
+* Requiring the use of open standards for the city’s technology, data and other information.
 
-* Identificar oportunitats de desenvolupament i/o migració a arquitectures i sistemes oberts a curt i mig termini.
+* Identifying development and/or migration opportunities to open architectures and systems in the short term.
 
-La Guia de Sobirania Tecnologia (veure annex 12.4) és el document de referencia en aquest tema.
+The reference document for this topic is the Guide to Technological Sovereignty (see Annex 12.4).
 
 
-== Estratègia responsable de Dades
+== Responsible Data Strategy
 
-Les dades son cada cop més importants per a les ciutats doncs permeten definir millors polítiques públiques per a combatre les desigualtats socials, fomentar el desenvolupament i millorar la qualitat de vida de la ciutadania.
-El creixement exponencial de les dades i la ràpida evolució de la tecnologia promouen l'aparició de nous models de serveis i generen canvis d'hàbits profunds.
-Aquest escenari requereixen adequar de forma flexible i constant les organitzacions TIC i com gestionen les dades que manipulen.
+Data are becoming increasingly important for cities because they enable cities to devise better public policies to combat social disparities, promote development and improve the quality of life for citizens.
+The exponential growth of data and rapid evolution of technology promotes new service models to appear and causes profound changes in habits.
+This context requires ICT organisations to take a flexible but constant approach to adapt and to how they manage the data they handle.
 
-S'obre una nova etapa on les dades prenen una rellevància considerable en l'entorn municipal i de ciutat i es fa palesa la necessitat de definir i posar en marxa un nou model de govern de les dades municipal que actuï amb sobirania i sigui transversal a tot l'Ajuntament.
+A new stage has been entered, where data are of considerable importance in the municipal and city environment, and there is a clear need for defining and operating a new municipal government data model that acts with sovereignty and which is cross-cutting across the entire City Council.
 
-Això implica canvis organitzatius, de funcions i responsabilitats, i fan necessari la creació a l'Ajuntament de la figura del responsable de les dades o Chief Data Officer (CDO).
+This involves organisational changes, as well as changes to functions and responsibilities, making it necessary to create a position with the City Council for a data manager or Chief Data Officer (CDO).
 
-Els principals aspectes que caldrà aprofundir aquest àmbit són:
+The main aspects to be examined further in this area are:
 
-* Noves regles pel govern de les dades.
+* New rules for data governance.
 
-* Arquitectura oberta de dades.
+* Open architecture for data.
 
-* De les dades a la informació, de la informació als indicadors de ciutat.
+* From data to information, from information to city indicators.
 
-* Ús ètic i responsable de les dades per a la innovació.
+* Ethical and responsible uses of data for innovation.
 
-* Privacitat i sobirania.
+* Privacy and sovereignty.
 
-La “Directiva de Dades” per a la Ciutat es publicarà amb la pròxima mesura de govern sobre la gestió de dades a Barcelona, on s'establiran de manera transversal no nomes la política de gestió responsable i ètic de dades, amb la estructura municipal de gestió de dades, una Oficina y responsables de dades, etc., si no també els processos i obligacions per al màxim compliment la normativa de protecció de dades i la millora de la seguretat.
+The “Data Directive” for the City will be published with the next government measure on data management in Barcelona, where the policy for responsible and ethical data management will be established in a transversal way, with the municipal structure of data management, a Data Office and data managers, etc, and it will also include the processes and obligations for maximum compliance with the regulations for data protection and improving security.
 
-== Transformació de la Compra Pública de TIC
+== Transformation of Public Procurement of ICTs
 
-Com eix transversal per enfortir l'assoliment dels objectius i els anteriors temes indicats, s'han de canviar els processos i les pràctiques habituals en la compra de tecnologia per adaptar-ho a les metodologies àgils a implantar, a la transició al programari lliure i estàndards oberts i a la nova estratègia de dades.
+As a cross-cutting policy to help the above-mentioned objectives and topics to be achieved, the usual processes and practices in purchasing technology must be changed to adapt to the agile methodologies to be implemented, to the transition to free software and open standards and to the new data strategy.
 
-La nova contractació de tecnologia serà oberta, transparent i més àgil.
-Ampliarà el ventall de proveïdors que hi poden accedir, facilitant la contractació de solucions en codi obert i d'estàndards oberts.
-A més, considerarà els aspectes de propietat de les dades, i privacitat, tot observant el compliment de la regulació legal de protecció de dades i incloent l'avaluació del risc ètic en l'ús de les dades.
-Com a resultat tindrem nous processos de contractació, guies d'adquisició de tecnologia i nous serveis digitals tant per a les empreses potencials proveïdors com per la ciutadania i pels equips municipals de contractació.
+The new method for procuring technology will be open, transparent and more agile.
+It will extend the range of providers that can access it, facilitating the procurement of solutions based on open source and open standards.
+In addition, it will consider the aspects of data ownership and privacy, while observing compliance with legal regulations on data protection, including assessment of the ethical risks implied in using data.
+As a result, we will have new procurement processes, technology acquisition guides and new digital services not just for potential providers but also for citizens and municipal procurement teams.
 
-Es generaran nous enfocs, noves normes i noves eines per tal de disposar de:
+New approaches, rules and tools will be developed in order to have:
 
-* Processos de compra més fàcils.
+* Simpler procurement processes.
 
-* Contractació oberta amb processos més transparents.
+* Open procurement with more transparent processes.
 
-* Guies per la contractació de solucions i serveis basats en tecnologies obertes i el desenvolupament de metodologies àgils.
+* Guides for the procurement of solutions and services based on open technologies and the development of agile methodologies.
 
-* Plataforma de mercat digital per facilitar l'accés a proveïdors petits i locals.
+* A digital market platform to facilitate access for small and local suppliers.
 
-La Guia de Compra Pública de Tecnologia (veure annex 12.6) i en la Guia de Compra Pública Innovadora (veure annex 12.7) són els documents de referencia en aquest tema.
+The reference documents for this topic include the Public Procurement of Technology Guide (see Annex 12.6) and the Innovative Public Procurement Guide (see Annex 12.7).
 
-== Capacitat, cultura i gestió del canvi organitzatiu
+== Capability, culture and management of organisational changes
 
-La transformació ajuda als equips existents a capacitar-se i desenvolupar-se, convertint-los en equips interns ben preparats amb habilitats i capacitats per prendre la plena propietat dels serveis digitals de la ciutat, les dades, les decisions arquitectòniques i de compra.
+This transformations will help train and develop existing teams, turning them into well-prepared internal teams with skills and capabilities to take full possession of the city’s digital services, data and architectural and procurement decisions.
 
-Aquestes capacitats i habilitats estaran recolzades per un conjunt de comportaments i pràctiques (cultura organitzativa) i una estructura organitzativa que orientant-los a serveis, faciliti la col·laboració dels equips amb el suport puntual d'equips externs que puguin complementar i enriquir el coneixement dels recursos interns i obrir noves oportunitats professionals.
+These skills and capabilities will be supported by a series of behaviours and practices (organisational culture) and an service oriented organisational structure, facilitating team collaboration with prompt support from external teams that can complement and enrich the knowledge of internal staff while opening up new professional opportunities.
 
-A continuació (Figura 3), es mostren els resultats més importants, que ja s'han assolit, en les àrees d'actuació descrites.
+Figure 3 below shows the more important results that have already been achieved in the aforementioned areas:
 
-image::open-digit-p25-guides-{lang}.svg[FIGURA 3: Guies, align="center"]
+image::open-digit-p25-guides-{lang}.svg[FIGURE 3,  align="center"]

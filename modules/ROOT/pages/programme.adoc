@@ -1,158 +1,159 @@
-= El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis
+= The open digitisation and agile service delivery programme
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== Declaració i principis de la missió
+== Mission statement and principles
 
-*Els serveis públics de l'Ajuntament s'han de dissenyar “digitals des del inici”, posant la ciutadania al centre del procés de disseny i aportant més valor públic.*
-*Els serveis s'han de construir de forma més àgil i alhora oberta, han de ser més senzills, modulars i interoperables.*
-*A la vegada, cal evitar dependències amb venedors i proveïdors de solucions propietàries específiques i per això cal potenciar el desenvolupament, l'ús i la reutilització del programari lliure i de codi obert i estàndards oberts.*
-*Els serveis han de ser usables i accessibles a tothom, inclosos els ciutadans amb baix nivell de capacitats digitals o persones amb tot tipus de discapacitats.*
+*Public services currently must be designed to be “digital first”, putting citizens at the centre of the design process and contributing more public value.*
+*Services must be constructed in a more agile and open way and must be simpler, more modular and more interoperable.*
+*At the same time, we must avoid creating dependencies on vendors and suppliers of specific proprietary solutions, hence the need to promote the development, use and reuse of free and open source software and open standards.*
+*Services must be usable and accessible to everyone, including citizens with low levels of digital skills and people with disabilities.*
 
-El *Programa per a la Digitalització Oberta:*
-*Programari Lliure i Desenvolupament Àgil de Serveis* proporciona una orientació enfocada al servei digital per revitalitzar l'Ajuntament com a referent per a la innovació i excel·lència tecnològica.
-Aportarà serveis digitals de qualitat, ajustats a les necessitats dels ciutadans i orientats a salvaguardar el dret a la privacitat dels ciutadans (privacitat de les dades), serveis que, fent ús del programari lliure i de codi obert i estàndards oberts trencaran la dependència de formats, productes i solucions propietàries (sobirania tecnològica).
+The *Open Digitisation and Agile Service Development Programme* provides a focus on digital services to revitalise the City Council as a benchmark for technical innovation and excellence.
+It will bring quality digital services, adapted to the needs of citizens and orientated towards safeguarding citizens’ right to privacy (data privacy), services which, by making use of free and open source software and open standards, will end the dependency on proprietary formats, products and solutions (technological sovereignty).
 
-Els serveis públics digitals han d'esdevenir veritables actius de la societat actual possibilitant la seva reutilització en altres ciutats.
-I per això calen actuacions també en l'àmbit de la compra pública de tecnologia que fomentin un enfocament més madur per la provisió de tecnologia al sector públic, proposant models de contractació multiproveïdor que promoguin la competència i la diversitat de proveïdors, facilitin l'adopció de noves tecnologies innovadores s'allunyin dels grans contractes, creant així un nou mercat per a pimes innovadores.
+Digital public services need to become true assets of today’s society, with their reuse made possible in other cities.
+That is why initiatives are needed in the area of public procurement of technology which can foster a more mature approach to the provision of technology to the public sector, by proposing multisupplier contracting models that promote competition and diversity of suppliers, enable the adoption of new innovative technologies and move away from big contracts, by creating a new market for open and collaborative SMEs.
 
-Alhora, el programa genera perfils i capacitats en disseny centrats en l'usuari i metodologies àgils per flexibilitzar i accelerar el desenvolupament i execució d'aquests servei, i al mateix temps, obre la contractació publica i la fa més transparent, senzilla i objectiva proporcionant així un camí vers la sobirania tecnològica i de les dades.
+What’s more, the programme generates profiles and capacities in user centred design and agile methodologies, to bring the flexibility to and accelerate the development and delivery of these services, while opening public procurement and increasing its transparency, simplicity and objectivity, thereby providing a route to technological and data sovereignty.
 
-El programa que estableix un marc per a obtenir una arquitectura oberta i dissenys basats en estàndards oberts, s'implementarà mitjançant un conjunt de canvis incrementals amb una clara estructura de govern, orientats a resultats, amb mètriques i indicadors clars i un full de ruta compartit.
+The programme will establish a framework for an open architecture and designs based on open standards, through a series of incremental changes with a clear governance structure, results orientated, with clear measurements and indicators and a shared roadmap.
 
-Com a punt de partida, el programa defineix els principis bàsics que han de guiar el desenvolupament dels nous serveis.
-Aquests principis queden recollits en el “decàleg” anomenat “*L'Estàndard de Serveis Digitals*” (vegeu annex 12.1):
+As a starting point, the programme defines the basic principles to guide the way for developing new services.
+These principles are contained in the Decalogue titled *Our Digital Service Stan-dards* (see Annexe 12.1):
 
-* *Equips multi disciplinaris per serveis.*
-S'estableix un equip sostenible multidisciplinari que pot dissenyar, construir i fer operatiu el servei, que està liderat per un responsable de servei sènior que està qualificat per aquesta feina i que té responsabilitat per prendre decisions.
+* *Multi disciplinary teams for services:* Setting up a multidisciplinary sustainable team that can design, build and operate a service, led by a qualified senior service manager, that has decision making responsibilities.
 
-* *Començar amb les necessitats dels usuaris.*
-Cal entendre les necessitats de l'usuari i investigar per desenvolupar més coneixement sobre qui són els usuaris de servei i	el que això significa per al disseny del servei.
+* *Beginning with the needs of users:* Users needs have to be understood and re-search carried out to develop more knowledge on who the service users are and what this means for the service design.
 
-* *Fer servir metodologies de desenvolupament àgil i construir de manera iterativa.*
-Construir el servei fent servir mètodes àgils, iteratius i centrats en l'usuari.
+* *Using agile development methodologies and iterative building methods.*
+Building the service using agile and iterative user centred methodologies.
 
-* *Reduir la càrrega sobre els ciutadans.*
-Es farà servir la informació ja existent als sistemes municipals en les noves interaccions amb els ciutadans i s'interoperarà amb altres administracions públiques per reunir la informació necessària i evitar haver de demanar als ciutadans que la tornin a aportar.
-S'eliminaran els documents innecessaris en la versió digital del servei i l'ajuntament s'assegurarà de que els ciutadans donin el seu consentiment per a l'ús dels seus documents personals.
+* *Reducing the burden on citizens.*
+Existing information will be used in the municipal systems during new interactions with citizens, with interoperation with other public authorities to gather the required information and avoid having to ask the citizens to provide it again.
+Unnecessary documents will be removed in the digital version of the service and the City Council will ensure that citizens give their consent for their personal documents to be used.
 
-* *Seguir les directrius sobre disseny visual i accessibilitat.*
-Es construirà un servei coherent amb l'experiència de l'usuari de la resta de l'Ajuntament de Barcelona, a propòsit de les directrius de disseny visual i d'accessibilitat existents.
+* *Following the guidelines on visual de-sign and accessibility.*
+A coherent service will be built based on the experiences of users of the rest of Barcelona City Council, in terms of existing visual design and accessibility guidelines.
 
-* *Disposar d'un pla per a les persones que necessiten ajuda digital.*
-Es fomentarà entre tots els usuaris l'ús del servei digital, també es faran plans per a les persones que per qualsevol raó no poden accedir als serveis digitals sense suport.
-En el cas de prestar un servei essencial, caldrà assegurar que l'ajuntament s'adapti als ciutadans que no tenen dispositius digitals.
+* *Having a plan available for people who need digital assistance.*
+Use of digital services will be encouraged among all users and plans made for people who cannot access digital services for whatever reason without support.
+As for the provision of essential services, the City Council will need to ensure that it adapts to citizens who do not have digital devices.
 
-* *Pensar amb la seguretat, la privacitat i els aspectes ètics.*
-S'avaluaran quines dades de l'usuari i informació seran proveïdes o emmagatzemades al servei digital, i tractar el nivell de seguretat, responsabilitats legals, assumptes de privacitat i els riscos associats amb el servei. (consultar amb experts en el seu cas).
+* *Considering security, privacy and ethical aspects.*
+An assessment will be made of which user data and information will be provided or stored in the digital service, taking into account the level of security, legal obligatoins, privacy issues and the risks associated with the service.
+(consulting with experts if necessary).
 
-* *S'utilitzarà programari obert i estàndards oberts.*
-Es farà servir programari obert i estàndards oberts sempre que sigui possible. Així mateix, es farà que tot el nou codi sigui obert i reutilitzable perquè es publiqui sota les llicències adequades.
+* *Open source software and open standards will be used.*
+Open source software and open standards will be used whenever possible.
+Likewise, all new code will be open source and reusable so that it can be published under appropriate licenses.
 
-* *Disposar d'un pla per ser digitals.*
-Caldrà assegurar que els serveis digitals proporcionin mitjans digitals als ciutadans per tal de proveir, signar i verificar els seus documents.
-En cas de que hi hagi ciutadans que no poden proveir recursos digitals per ells mateixos, caldrà garantir que hi ha un servei disponible a l'Ajuntament per tal de digitalitzar aquests documents.
+* *Having a plan available for digitisation.*
+We will ensure that all digital services provide citizens with the digital means to produce, sign and authenticate their documents.
+In the event that there are citizens who do not have their own digital resources, we will have to ensure there is a service available at the City Council for digitising these documents.
 
-* *Fer un pla per estar fora de línia en cas d'imprevistos.*
-Es disposarà d'un pla per quan el servei digital pugui estar temporalment inoperatiu, ja que els usuaris esperaran que un servei en línia estigui disponible les 24 hores del dia, els 365 dies de l'any.
+* *Making a plan for going offline in case of unforeseen circumstances.
+A plan will be available in case the digital service is temporarily down, as users expect an online service to be available 24 hours a day, 365 days a year.
 
-* *S'avaluaran les eines, els sistemes i els serveis.*
-Es farà l'avaluació per assegurar que es segueix el codi tecnològic de conducta i s'entenen els riscos tècnics associats.
+* *Tools, systems and services will be evaluated.*
+Assessments will be made to ensure that the technological code of conduct is followed and the associated technical risks are understood.
 
-* *Reutilització de la infraestructura existent i de les funcions compartides en la mesura que sigui possible.*
-Es crearà una experiència de servei coherent que permeti estalviar temps i recursos de la reconstrucció de funcionalitats ja existents.
+* *Reusing the existing infrastructure and shared functions as far as possible.*
+A coherent service experience will be created that enables time and resources to be saved by eliminating the need for existing functionalities to be rebuilt.
 
-* *Definició d'un pla de gestió del canvi per a la transició del servei.*
-Hi haurà plans de serveis de continuïtat per tal de facilitar la transició entre el servei no digital actual i el nou servei digital.
-S'ha d'evitar qualsevol interrupció en l'accés al servei per part dels ciutadans.
+* *Defining a plan for managing the change for the transition of the service.*
+There will be continuity service plans to facilitate the transition between the current non digital service and the new digital service.
+Any interruption to citizens’ access to the service has to be avoided.
 
-* *Escolta i avaluació contínua de l'usuari.*
-Es posarà en marxa un pla per a la escolta contínua dels usuaris i la realització de proves d'usabilitat a fi de recollir de forma continuada l'opinió dels usuaris i poder millorar així el servei.
+* *Feedback and continuous user assessment.*
+A plan will be implemented under which we will be continuously open to feedback from users and carrying out usability tests to gather users opinions continuously and thereby be able to improve the service.
 
-* *Mesurar i publicació del resultat del servei.*
-S'identificaran els indicadors d'acompliment del servei, establint un punt de referència per a cada mètrica i fent un pla per permetre millores.
+* *Measuring and publishing the service’s results.*
+Performance indicators of the service will be identified, establishing a reference point for each measurement and making a plan for enabling improvements.
 
-* *Feu un pla per al manteniment i el servei del servei digital.*
-Hi haurà un pla de “resposta i	d'escalada” per reduir al mínim la interrupció del servei quan es produeixin incidents.
+* *Making a maintenance and servicing plan for the digital service.*
+There will be a “response and escalation” plan to minimise service interruption when incidents occur.
 
-L'Ajuntament de Barcelona ha editat un pòster informatiu amb informació més detallada per la divulgació de l'Estàndard de Serveis Digitals. Aquest pòster es pot veure a l'annex 12.1 que acompanya aquesta mesura.
+Barcelona City Council has published an information poster with further details for publishing our digital service standards.
+This poster can be seen in Annexe 12.1 accompanying this measure.
 
-== Prioritats i mètodes per la creació de serveis digitals
+== Priorities and methods for creating digital services
 
-Per al millor desenvolupament del programa de digitalització i obtenir serveis digitals publics, oberts, interoperables, ètics i àgils s'han identificat les següents quatre grans àrees d'actuació:
+The following four main action areas have been identified for the purposes of the digitisation programme's optimum development and obtaining open, interoperable, ethical and agile digital services for the public:
 
-* Metodologies àgils en el lliurament de serveis digitals.
+* Agile methodologies in the delivery of digital services
 
-* Sobirania Tecnològica (programari lliure i estàndards oberts).
+* Technological Sovereignty (free software and open standards)
 
-* Sobirania i ús responsable de les dades.
+* Sovereignty and the responsible use of data
 
-* Nou model de Contractació pública.
+* New public procurement model
 
-Si bé el programa és transversal, i implica tant l'IMI com a totes les unitats de la ciutat, cada àrea d'actuació serà liderada per un equip diferent.
-Es basa en els nostres esmentats estàndards de serveis i un nou codi de pràctiques tecnològiques recolzat per una guia per a la introducció de les metodologies àgils i una guia per a la transició al programari lliure i de codi obert (programari, maquinari, sistemes oberts).
-Les guies de contractació pública oberta i de compra innovadora completen el marc documental per a desplegar el programa.
-La propera mesura de govern sobre la gestió de dades a la ciutat de Barcelona expressarà l'estratègia d'ús responsable i ètic de dades i la seva implementació concreta.
+While the programme is transversal, and both the IMI and City units are involved, each area of action will be led by a different team.
+It is based on our services standards and a new code of technological practices supported by a guide for the introduction of agile methodologies, and a guide for the transition to free and open source software (software, hardware, systems), the guides on open public procurement and of innovative procurement complete the documentary framework supporting the programme.
+The next government measure will set out the management of data for the City of Barcelona and will express the strategy of responsible and ethical use of data and its concrete implementation.
 
-Aquesta transformació és interna i per tant el procés ha de ser liderat des del propi Ajuntament, implicant el propi equip humà, treballant per evolucionar la capacitat per adquirir habilitats i resultats.
-Puntualment caldrà el suport d'experts externs del sector que juntament amb la formació i rodatge dels nous equips àgils ajudaran a comprendre les capacitats i competències que es necessitaran en un futur immediat.
-Es desenvoluparà un pla de contractació i un programa de creació d'habilitats per fer front a aquestes necessitats i poder mantenir la transformació viva.
-Aquest procés generarà un forta implicació interna.
+This is an internal transformation so the process must be led by the City Council itself, involving its own staff, working to develop the capacity for acquiring skills and results.
+Support will occasionally be necessary from external experts in the sector who, along with training and experience from the new agile team, will provide help in understanding the skills and competencies that will be needed in the immediate future.
+A procurement plan and a skills-creation programme will be implemented to meet these needs and keep the transformation alive.
+This process will lead to major internal involvement.
 
-Tot el procés de transformació es durà a terme seguint la mateixa filosofia àgil.
-Així, s'inicia amb una fase de descoberta seguit de les successives iteracions que permetran anar introduint de forma gradual la nova cultura i les noves pràctiques.
+The whole transformation process will be carried out under the same agile philosophy.
+So, the programme will begin with a discovery stage followed by successive iterations that will gradually allow the new culture and new practices to be introduced.
 
-Es desenvoluparan i refinaran les noves pràctiques a partir de projectes reals, que anomenarem exemplars o emblemàtics (descrits en el punt 08 d'aquest document).
-La nova metodologia s'anirà estenent de forma gradual a tots els projectes on aquestes pràctiques siguin d'aplicació.
+New practices will be developed and refined based on real projects, which we will call exemplary or flagship projects (described in section 08 of this document).
+The new methodology will gradually extend to all projects where such practices are applicable.
 
-== Situació actual a l'Ajuntament de Barcelona
+== The current Situation
 
-El passat setembre de 2016 s'inicià el procés de descoberta a l'Ajuntament de Barcelona amb el suport d'experts extern.
-Es van crear 4 grups de treball en els que hi van participar més de 40 treballadors de diferents àrees municipals.
-Durant 4 mesos, aquests grups van estar treballant amb l'ajuda de 4 experts externs amb l'objectiu de generar una base propiciatòria per a l'impuls del canvi.
+The discovery stage in Barcelona City Council began in September 2016, with support from external experts.
+Four work groups were created in which more than 40 workers from several municipal areas participated.
+These groups worked for 4 months with help from 4 external experts to generate a base that would help to drive change.
 
-Al llarg del 2017, s'han realitzat fins a 3 sessions amb el sector (programari lliure i tecnologies obertes, serveis digitals àgils i compra pública de tecnologia), en el qual s'han implicat més de 200 representants de la ciutat i del sector industrial.
-Internament entre l'abril i el juny d'enguany, dins del Pla de Transformació, es varen organitzar quatre tallers (taller d'Eines, taller de Gestió, taller de Capacitació i taller d'Organització).
+Throughout 2017, as many as 3 sessions were held with the sector (free software and open technologies, agile digital services and public procurement of technology), involving more than 200 representatives of the City and industry.
+Internally, between April and June this year, within the Transformation Plan, four workshops were organised (tools workshop, management workshop, training workshop and an organisation workshop).
 
-En el primer trimestre de 2017 s'ha aplicat la metodologia àgil a un primer projecte real, el quadre de comandament de la gerència municipal. Això ha servit per definir les accions d'introducció de les metodologies àgils a l'Ajuntament, triar els projectes més adients on començar a aplicarles, identificar el suport extern necessari, definir el pla de capacitació interna i l'organització i eines necessàries per les noves pràctiques.
+In the first quarter of 2017, the agile methodology was applied to its first real project, the municipal management dashboard.
+This was used for defining the actions for introducing agile methodologies to the City Council, choosing the most appropriate projects to begin applying them, identifying the necessary external support needed and defining the internal training plan and the organisation and necessary tools for new practices.
 
-L'Ajuntament, entre 2016 i 2017 va posar en funcionament Decidim.Barcelona i Sentilo, aplicacions ja desenvolupades amb programari propi lliure.
+Between 2016 and 2017, the City Council launched *Decidim.Barcelona* and *Sentilo*, applications that hace been developed as its own free software.
 
-* *Decidim. Barcelona* és el projecte de programari lliure més avançat de l'Ajuntament de Barcelona i ha permès una de les participacions ciutadanes obertes, transparents i traçables més grans del món en la construcció col·lectiva d'un pla estratègic de ciutat.
-La seva missió és donar suport, obrir i amplificar la participació i la democràcia a Barcelona per als propers anys, avançant cap a una major capacitat de col·laboració entre l'Ajuntament i la ciutadania, una major autonomia de les persones en la presa de decisions, amb èmfasi especial en la dimensió col·lectiva i, en definitiva, en la producció i distribució del poder social, principis que continuen avui també vigents en gran part de les comunitats de programari lliure.
-Ja està implementat en 9 ciutats de Catalunya i al País Basc, així com la Comissió Nacional de Debat Públic a França.
+* *Decidim.barcelona* is the most advanced free software to be developed by Barcelona City Council and has enabled one of the biggest open, transparent and traceable participatory processes in the world among its citizens in the collective construction of the city’s strategic plan.
+Its mission is to provide support, open up and broaden participation and democracy in Barcelona in the coming years, by advancing towards a greater ability for collaboration between the City Council and citizens, greater decision making freedom for people, with particular emphasis placed on the collective dimension, and ultimately, in creating and delivering social power.
+Principles that are still in force today in many free software communities.
+Decidim is deployed in 9 cities in Catalonia and the Basque Country, as well as the French Commission for National Debate.
 
-* La plataforma de gestió de dades de sensors de Barcelona, *Sentilo*, va ser desenvolupada íntegrament amb programari lliure i oferta al món a través de la Comunitat Sentilo.
-Com Decidim.Barcelona, ja està sent utilitzada a diferents ciutats i administracions públiques i un gran nombre de ciutats i empreses han mostrat el seu interès per provar-la i crear tecnologies compatibles amb la plataforma.
-El principal objectiu de Sentilo és proporcionar a tothom que ho desitgin una plataforma oberta, interoperable i fàcilment ampliable, compartint la inversió pública del desenvolupament sota el model de software lliure.
-És la primera experiència de Barcelona per a crear una comunitat al voltant d'un programari propi, un lloc de trobada on ciutats i empreses puguin col·laborar per a millorar la tecnologia, proporcionar suport i fins i tot desenvolupar negocis.
-Les organitzacions que, a més de Barcelona, estan utilitzant Sentilo en l'actualitat són: Terrassa, Reus, Cambrils, Diputació de Barcelona, Agència Catalana de l'Aigua (ACA), Àrea Metropolitana de Barcelona (AMB) i la municipalitat de Dubai.
+* As regards Barcelona's sensor platform, *Sentilo* was fully developed with free software and is made available globally through the Sentilo Community.
+As with Decidim, this platform is already being used in several cities and by various public authorities and a large number of cities and companies have also expressed their interest in trying it out and creating technologies that are compatible with Sentilo.
+The main objective of Sentilo is to provide a functional, interoperable and easily extendible platform to every city in the world that so wants it, by sharing public investment in development under the free software model.
+Sentilo is the first experience of Barcelona in creating a community around a free software project, a place that also aims to be a meeting point where cities and companies can collaborate to enhance the platform, provide support and develop business around Sentilo.
+Organisations besides Barcelona currently using Sentilo are: Terrassa, Reus, Cambrils, Barcelona Provincial Council, the Catalan Water Agency (ACA), Barcelona Metropolitan Area (AMB) and the Dubai Municipality.
 
-En l'àmbit de les dades obertes, cal destacar, el portal *Open Data BCN* o servei de dades obertes de l'Ajuntament de Barcelona.
-Es tracta d'un espai multi idioma i de fàcil accés, on els usuaris poden trobar una relació de conjunt de dades (catàlegs dataset) que l'Ajuntament de Barcelona posa a la seva disposició de forma reutilitzable.
-La informació està classificada en 5 grans temes (administració, població, territori, economia i empresa i ciutat i serveis), amb els seus corresponents subtemes permetent un filtratge.
-Des d'inicis de juliol de 2017, disposa del apartat “reutilitzadors”, un espai de comunitat dirigit a, d'una banda, desenvolupadors per facilitar la tasca d'aquest col·lectiu més tècnic en l'ús de les dades, i per l'altre “visualitzacions i aplicacions”, un apartat que dona visibilitat als projectes que es realitzen amb dades del Portal.
+In the field of open data, the Open Data BCN portal, the open data service of the Barcelona City Council must be highlighted.
+It is a multi language and easy to access space, where users can find a data set (dataset catalogs) that the Barcelona City Council makes available in a reusable way.
+The information is classified into 5 major issues (administration, population, territory, economy and company and city and services), each with its corresponding subthemes, allowing filtering.
+Since the beginning of July 2017, it has the “reusers” section, a community space aimed on the one hand at developers, to facilitate the work of this more technical group in the use of data, and on the other, “views and applications”, a section that gives visibility to projects carried out with data from the Portal.
 
-Barcelona ja disposa d'experiència i ha començat el camí indicat per el Pla de Transformació Digital, superant els beneficis esperats. Ha arribat, doncs, el moment de *reforçar-la i formalitzar-la*.
-Aquesta mesura i la seva expressió a través de diverses documents que son el resultat de tot aquest procés de descoberta, estableixen de forma clara els fonaments, estàndards, i principals processos de la digitalització oberta i desenvolupament àgil de serveis:
+Barcelona already has experience and has started the path indicated by the Digital Transformation Plan, exceeding expected benefits.
+The moment has come to reinforce and formalize it.
+This measure and its expression through various documents that are the result of this discovery process, clearly establish the foundations, standards, and main processes of open digitization and the rapid development of services:
 
-* L'Estàndard de Serveis Digitals (veure l'annex 12.1).
+* The digital services standard (see Annexe 12.1).
 
-* El Codi de Pràctiques Tecnològiques (veure l'annex 12.2).
+* The code of technological practices (see Annexe 12.2).
 
-* Les Metodologies Àgils a l'Ajuntament de Barcelona (vegeu annex 12.3).
+* Agile methodologies in Barcelona City Council (see Annexe 12.3).
 
-* Guia de Sobirania Tecnològica (12.4).
+* Technology Sovereignty Guide (see Annexe 12.4)
 
-* El Pla de migració a Codi Obert (veure l'annex 12.5).
+* Action plan for free and open source software (see Annexe 12.5).
 
-* Guia de Compra Pública de Tecnologia: Manual d'Adquisició de Tecnologia amb clàusules ètiques i obertes (veure l'annex 12.6)
+* Guide for the public procurement of ICTs: Technology Acquisition Manual with ethical and open clauses (see Annexe 12.6).
 
-* Guia de Compra Pública Innovadora (veure l'annex 12.7).
-Les guies, que acompanyen la present mesura de govern com annexos, seran publicades com un corpus coherent de treball i s'aniran millorant en al llarg del procés de transformació àgil en aquest mandat.
+* Guide for innovative public procurement.
 
-Aquests documents que acompanyen la present mesura de govern com annexos, seran publicades com un corpus coherent de treball i s'aniran millorant en al llarg del procés de transformació àgil en aquest mandat.
+The guides, which accompany this government measure as supporting documents, will be published as a comprehensive body of work and continuously improved throughout the process of agile transformation during this term of office.
 
-Com s'ha indicat anteriorment, les directius sobre dades es desenvoluparà a través d'una futura mesura específica sobre l'ús de dades a l'Ajuntament, donant-li la importància que mereix.
+As indicated above, the guidelines on data will be developed through a future specific measure on the use of data in the City Council, giving it the importance it deserves.

@@ -1,188 +1,189 @@
-= Línies d'actuació
+= Lines of action
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-Sobre cadascun dels temes que s'han indicat en l'apartat anterior, s'han establert unes línies d'actuació, les quals ampliem a continuació, juntament amb les seves accions associades.
+Lines of action have been established for each of the topics mentioned in the previous section which will be elaborated upon below, together with their associated actions.
 
-== Serveis digitals àgils i centrats en l'usuari
+== Agile and user-centred digital services
 
-Pel desenvolupament dels serveis digitals i centrat en l'usuari és imprescindible la introducció de les metodologies de desenvolupament àgil.
+The introduction of agile development methodologies is essential for the development of user-centred digital services.
 
-Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+The following actions were carried out during the first quarter of 2017:
 
-Organització de 4 tallers (eines, gestió àgil, capacitació i cultura i organització) amb personal intern del IMI, desenvolupadors, responsables de servei, responsables sectorials i directius.
-Van participar més de 40 treballadors de les diferents àrees municipals.
+4 workshops were organised (tools, agile management, skills acquisition, culture and organisation) with internal employees from the IMI, developers, service managers, sectoral managers and directors.
 
-Amb la implantació d'aquestes metodologies s'assoliran les línies d'actuació establertes:
+By implementing these methodologies, we will achieve the agreed lines of action:
 
-* Barcelona transformarà 20 nous serveis digitals (descrits en l'apartat 0.8), segons l'Estàndard de serveis digitals i el Codi de pràctiques tecnològiques.
+* BCN will transform 20 new digital services following the Digital Service Standards and the Technology Code of Conduct (all the new services are listed in section 0.8).
 
-* Posar major focus en l'usuari final, donant més protagonisme a la *presa de decisions*.
+* •	We will focus more on the end-user, giving them a leading role in *decision-making*.
 
-* *Escurçar el temps de desenvolupament* i millorar a la vegada la qualitat tècnica.
+* We will *reduce development times* and simultaneously improve technical quality.
 
-* *Oferir més valor públic* tot mantenint el control dels desenvolupaments.
+* We will *offer more public value* while maintaining control of the developments.
 
-A partir de les línies d'actuació identificades, s'aconseguirà:
+Based on the lines of action identified, we will be able to:
 
-* Transformar la cultura organitzativa, promovent la col·laboració i la transparència, essent més flexibles i lliurant més valor públic.
+* Transform the organisational culture, promoting collaboration and transparency, while being more flexible and delivering more public value.
 
-* Implementar la millora continua introduint a l'organització les pràctiques que han de fer que els processos de millora siguin sistèmics.
+* Implement continuous improvement by implementing practices in the organisation that require system-based processes to be improved.
 
-== Sobirania tecnològica i migració a programari lliure
+== Technological sovereignty and migration to free software
 
-L'assoliment de la sobirania tecnològica es farà a través de la migració a programari lliure, el desplegament d'estàndards oberts, els canvis en la contractació pública per fomentar el programari de codi obert i la identificació d'oportunitats de migració a arquitectures obertes a curt termini.
+Technological sovereignty will be achieved through migration to free software, the deployment of open standards, changes in public procurement to promote open source software and the identification of migration opportunities to open architecture in the short term.
 
-Les línies d'actuació vers aquest tema són:
+The lines of actions here are:
 
-* *Assolir que el 70% de la inversió* en nous desenvolupaments de programari es farà amb codi obert.
+* *Ensuring that 70% of investments* in new software developments go towards open sour-ce software.
 
-* Posar a disposició d'altres municipis i administracions *10 solucions* desenvolupades per l'Ajuntament de Barcelona.
+* Making *10 solutions* developed by Barcelona City Council available to other municipalities and administrations.
 
-* Incorporar *l'estació corporativa* oberta basada en sistemes i programes oberts al parc municipal.
+* Incorporating open *corporate workstations* which function using open systems and programmes into the municipal systems.
 
-Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+During the first half of 2017, the following actions were carried out:
 
-* Identificar oportunitats de desenvolupament i/o migració a arquitectures i sistemes oberts a curt termini.
+* Identify opportunities for development and/or migration to architectures and open systems in the short term.
 
-* Preparació d'un pla de migració i desenvolupament de codi lliure i de codi obert.
+* Preparation of a migration and development plan for free and open source code.
 
-* Definició de pautes per a publicar i compartir programari i continguts de l'Ajuntament sota llicències de programari i continguts lliure.
+* Definition of guidelines for publishing and sharing software and content of the City Council under free software and content licenses.
 
-* Introduir en la contractació pública el foment de la creació, ús i reutilització del programari lliure i de codi obert.
+* Introduce into public procurement processes the promotion of the creation, use and reuse of free and open source software.
 
-* Introduir les directrius a nivell corporatiu per a l'ús d'estàndards oberts per a les tecnologies, dades i altres informacions de la ciutat.
+* Introduce guidelines at corporate level for the use of open standards for technologies, data and other information in the city.
 
-A partir de les línies d'actuació identificades, s'aconseguirà:
+Based on the lines of action identified, we will achieve the following:
 
-* Increment de la sobirania tecnològica.
+* An increase in technological sovereignty.
 
-* Millora de la imatge i posicionament davant de la societat.
+* Improvement of our image and positioning among society.
 
-* Reducció costos desenvolupament (pocs d'entrada).
+* Reduction in development costs (low).
 
-* Reducció costos manteniment (efectiu).
+* Reduction maintenance costs (effective).
 
-* Reducció costos evolutius (notable quan introduïm noves funcionalitats desenvolupades per la comunitat).
+* Reduction of technology evolution costs (notable when we introduce new functionalities developed by the community).
 
-* Reducció costos migració a noves solucions (important).
+* Reduction in costs of migration to new solutions (important).
 
-Els projectes emblemàtics en aquest tema, amb un pressupost total de 21,5 milions d'euros i un calendari que va des de el primer trimestre de 2017, fins al final del segon trimestre del 2019, s'inclouen al Pla de Migració a Codi Obert (annex 12.5).
+Flagships projects in this area, with a total budget of 21.5 million euros and a timetable ranging from the first quarter of 2017 until the end of the second quarter of 2019, are included in the Open Source Migration Plan (Annex 12.5).
 
-* Migració del correu corporatiu a tecnologies obertes.
+* Migration of corporate e-mail to open tech-nologies
 
-* Adaptació de l'estació de treball Windows (Windows 10) amb conjunt d'aplicacions de programari lliure.
+* Adaptation of the Windows workstation (Windows 10) with a set of free software applications.
 
-* Adopció d'eines per al desenvolupament d'aplicacions basades en tecnologies obertes.
+* Adoption of development tools for applications based on open technologies.
 
-* Estació de treball i escriptori obert.
+* Open workstation and desktop.
 
-* Identificador Mobile-ID / e-ID.
+* Mobile ID / e-ID.
 
-* Nous serveis desenvolupats en codi obert.
+* New services developed in open source
 
-== Estratègia responsable i ètica de dades
+== Responsible and ethical data strategy
 
-Les dades prenen una rellevància considerable en l'entorn municipal i de ciutat i es fa palesa la necessitat de definir i posar en marxa un nou model transversal de govern de les dades que reforci la sobirania.
-Donant la seva importància, l'Ajuntament dedicarà una mesura de govern destinada a expressar la política de gestió de dades i la seva implementació a través de totes les unitats de l'Ajuntament.
+Data are of considerable importance in the municipal and city environment and there is a clear need to define and put into operation a new cross-cutting municipal government model for reinforcing sovereignty.
+Given its importance, the City Council will devote a government measure to express the data management policy and its implementation throughout all the units of the City Council.
 
-Indiquem aquí les línies d'acció i projectes que cauran sota l'àmbit d'aquesta pròxima mesura, element essencial del Pla de Transformació Digital.
+Here, we indicate the action lines and projects that will fall under the scope of this forthcoming measure, an essential element of the Digital Transformation Plan.
 
-Les línies d'actuació vers aquest tema són:
+The lines of actions here are:
 
-* *Disseny i execució* de les accions d'adaptació al nou RGPD pel tractament de les dades de caràcter personal a l'ajuntament de Barcelona.
+* *Designing and carrying out* initiatives to adapt to the new GDPR for processing personal data in Barcelona City Council.
 
-* *Definició i implantació* dels nous processos que permetin la incorporació de la privacitat and security per defecte i des del disseny en els nous aplicatius informàtics.
+* *Defining and implementing* new processes which allow privacy and security to be incorporated by default, in the design of new computer applications.
 
-* *Establiment del control* proactiu que demana la nova normativa.
+* *Establishing the level of proactive control* required by the new regulation.
 
-* Definició de l'oficina municipal d'anàlisi de dades i de la figura de *Chief Data Office*.
+* Defining the role of the municipal office of data analytics and the *Chief Data Officer*.
 
-* Creació de la figura *Chief Data Analytics Office* que aporti noves capacitats relacionades amb la millora de dades i l'anàlisi de les mateixes en la protecció de la privacitat interna.
+* Creating a *Chief Data Analytics Office*, bringing new capabilities for privacy related data improvement and analysis.
 
-* Crear un programa “*Data Challenges*” per involucrar a les pimes i empreses en la creació d'aplicacions basades en dades per resoldre els reptes de la ciutat.
+* Creating a *Data Challenges* programme to involve SMEs and companies in devising data-driven applications for solving the city’s challenges.
 
-Durant el primer semestre de 2017 s'ha estat treballant en les següents accions:
+We worked on the following initiatives during the first quarter of 2017:
 
-* Establiment de les noves regles pel govern de dades.
+* Establishing new rules for data governance.
 
-* Definició d'una arquitectura oberta de dades.
+* Defining the open architecture of data.
 
-* Plataformes per a l'anàlisi massiu de dades per a polítiques i serveis públics.
+* Creating platforms for big data analysis for public policies and services.
 
-* Guia per a l'ús ètic i responsable de les dades, garantint privacitat i sobirania.
+* Creating a guide for ethical and responsible uses of data, guaranteeing privacy and sovereignty.
 
-A partir de les línies d'actuació identificades, s'aconseguirà:
+Based on the lines of action that have been identified, we will be able to:
 
-* Millorar l'eficàcia i eficiència.
+* Improve effectiveness and efficiency.
 
+////
 * Millorar la presa de decisions.
+////
+* Democratise access to data.
 
-* Democratitzar l'accés a les dades.
+* Create new and improved public services.
 
-* Crear nous i millors serveis públics.
+* Achieve greater democratic quality, respecting citizens’ rights, data protection and access to information.
 
-* Assolit qualitat democràtica, respectant els drets digitals dels ciutadans, la protecció de dades i l'accés a la informació.
+* Generate Transparency and accountability.
 
-* Generar Transparència i rendició de comptes.
+* Regain citizen's trust.
 
-* Recuperar la confiança del ciutadà.
+The total budget for the flagship projects in this area is 2.3 million euros and their timetable runs from the first quarter of 2017 up to the middle of the first quarter of 2019.
 
-Els projectes emblemàtics en aquesta tema, amb un pressupost total de 2,3 milions d'euros i un calendari que va des de el primer trimestre de 2017, fins a mitjans del primer trimestre de 2019.
+* CityOS Services (pollution, mobility, tourism).
 
-* Serveis CityOS (contaminació, mobilitat, turisme).
-* Quadre de comandament d'ecologia.
+* Ecology dashboard.
 
-* Observatori de l'Habitatge de Barcelona (OHB).
+* Barcelona Housing Observatory (OHB).
 
-* DCODE: Projecte de tota la UE per desenvolupar una arquitectura basada en blockchain (cadena de blocs) per a la sobirania de dades.
+* DCODE: An EU wide project to develop a block-chain based architecture for data sovereignty.
 
-== Nou model de contractació
+== New procurement model
 
-Amb l'assoliment del objectiu principal del nou model de contractació, indicat en el punt 06.5, es podrà garantir la sobirania tecnològica i de les dades, es fomentarà la innovació tecnològica i es farà palanca en la transformació socioeconòmica.
+Through achieving the main objective of the new procurement model, outlined in section 06.5, we can guarantee technological and data sovereignty, promote technological innovation and lever social and economic change.
 
-Les línies d'actuació vers aquest tema:
+The lines of action here are:
 
-* *Nou marc de contractació:* Conceptualització de la nova orientació en la contractació.
+* *New Procurement Framework:* Conceptualising a new orientation in the procurement process.
 
-* *Implementació de la Guia Compra TIC:* Guia que facilita una visió global de l'estratègia municipal i facilita l'aplicació de les diferents mesures.
+* *ICT Procurement Guide:* A guide which gives an overview of the municipal strategy and facilitates the application of various measures.
 
-* *Implementació de la Guia Compra innovació:* Guia que orienta al seu lector a considerar la innovació com a element fonamental indissociable i potenciador de les compres sostenibles.
+* *Implementing the Innovative Procurement Guide:* A guide which orientates its readers towards considering innovation as a fundamental element which is inseparable from and boosts sustainable procurement.
 
-* *Redacció de documents per a “Plecs Tipus”*: Estandardització i agilitat en la contractació.
+* *Drafting standard procurement documents:* for standardisation and agility in procurement.
 
-* *Creació del “Digital Marketplace”*: Espai de diàleg continu i interrelació entre proveïdors, ciutadans i l'Ajuntament.
+* *Creation of the Digital Marketplace:* A space for continuous dialogue and interaction between providers, citizens and the City Council.
 
-* *Comunicació i Difusió:* Accions de difusió sobre el procés de transformació i l'estratègia municipal pel que fa a la contractació.
+* *Communication and dissemination:* Dissemination actions for the transformation process and municipal strategy over procurement.
 
-Durant el primer semestre de 2017 s'han dut a terme les següents accions:
+The following actions were carried out during the first quarter of 2017:
 
-* Redacció de la guia de compra de tecnologia i de la guia de compra d'innovació.
+* Creating the guide for the procurement of technology and the guide for innovative procurement.
 
-* S'ha iniciat ja la preparació dels plecs tipus.
+* The development of these standard procurement documentation.
 
-* S'han organitzat sessions de treball amb el sector TIC per l'enriquiment de les mesures vinculades a la compra de tecnologia.
+* Work sessions with the ICT sector to fortify the measures linked to the procurement of technology
 
-* Prospeccions per a construir una plataforma de mercat digital (Marketplace).
+* Surveys to build a digital market platform (Marketplace).
 
-Els projecte emblemàtic en aquesta tema, amb un pressupost total de 22 mil euros i un calendari que va des de l'inici del segon trimestre de 2017, fins a finals del primer trimestre de 2018.
+The total budget for the flagship project in this area is 22 million euros.
+The timetable runs from the beginning of the second quarter of 2017 to the end of the first quarter of 2018.
 
 * Digital Marketplace.
 
-== Cultura i organització del canvi
+== Culture and organisation of the change
 
-Per a la transformació dels equips existents s'està realitzant entre d'altres actuacions, una pla de capacitació del personal intern, amb tallers orientats a la organització, la capacitació i la cultura, la gestió àgil i l'aprenentatge d'eines.
+For the transformation of the existing teams there is a plan to train internal staff, with workshops aimed at the organization, training and culture, agile management and learning new tools.
 
-De forma paral·lela, dins el primer semestre del 2017 també s'ha iniciat un procés de cobertura de 64 noves places de tècnics informàtics (superiors i mitjans), a través de 2 borses de treball.
-Es preveu que aquest procés durarà fins a finals del 2017 i la incorporació de les persones es realitzarà durant el primer semestre del 2018.
+In parallel, in the first half of 2017, a process to cover 64 new positions for computer technicians (superior and middle level) has also begun, through 2 job boards.
+This process should last until the end of 2017 and the incorporation of people will take place during the first half of 2018.
 
-També està prevista una reestructuració orgànica que preveu la creació de 16 nous departaments, d'acord amb criteris de diferenciació per àmbits sectorials per especialització tècnica, que reforçarà el comandament, l'assumpció de responsabilitats pels comandaments intermitjos i la coordinació dels diferents grups de treball.
+We are also planning an organic restructuring that provides for the creation of 16 new departments, in accordance with differentiation criteria for sectoral areas by technical specialization, which will reinforce management, delegate responsibilities for middle management and the coordination of the different working groups.
 
-Per finalitzar, indicarem que els projectes emblemàtics que s'han apuntat en cadascuna de les línies d'actuació i que es detallen en l'apartat 08, formen part del Pla de Mandat que es conforma de 3 plans:
+To finish, the emblematic projects that have been pointed out in each one of the lines of action and that are detailed in the section 08, are part of the Mandate Plan that consists of 3 plans: Sectoral, Legal and Technological, as is set out in the following diagram (Figure 4).
 
-Sectorial, de Llei i Tecnològic, tal i com es reflexa a continuació (Figura 4).
-També hi podem observar l'estat d'execució dels mateixos, així com el grau d'execució del pressupost de 2017.
+We also show how progression has been made, and consumption of the 2017 budget.
 
-image::open-digit-p30-roadmap-ca.svg[_FIGURA 4: Composició i execució del Pla de Mandat_, align="center"]
+image::open-digit-p30-roadmap-{lang}.svg[_FIGURA 4: Composició i execució del Pla de Mandat_, align="center"]

@@ -1,10 +1,10 @@
-= Projectes emblemàtics dins les línies d'actuació
+= Flagship projects within the course of action
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-La introducció dels canvis que es deriven del desenvolupament d'aquest programa de digitalització oberta i desenvolupament de serveis àgils, s'efectua de forma gradual en un conjunt de projectes, que s'han anunciat en l'apartat anterior, que per aquesta raó anomenem projectes emblemàtics.
+The changes to be introduced as a result of the development of this open digitisation and development of agile services programme, are being carried out gradually through a series of projects outlined in the previous section, which is why we call them flagship projects.
 
 Aquests projectes seran pioners en l'aplicació de les noves pràctiques, ja es tracti de metodologies de desenvolupament àgils ja sigui en l'ús de solucions basades en programari obert, l'aplicació d'estàndards oberts o la implementació de les recomanacions derivades de la nova estratègia de dades.
 

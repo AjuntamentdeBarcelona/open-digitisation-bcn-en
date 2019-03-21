@@ -123,33 +123,35 @@ The university started migrating its computers to Linux in 2015.
 This resulted in savings of €100,000 in user licenses and another €300,000 by not having to renew equipment.
 Recently Barcelona City Council released the code of Sentilo, its sensor data management platform, as free software and won an EU award for Sharing and Reuse.
 
-A nivell europeu, el Ministeri d'Exteriors alemany, al 2003, va iniciar la migració dels seus 11.000 ordinadors a GNU/Linux i a aplicacions de programari lliure.
-Això ha permès reduir considerablement els costos si els comparem amb altres ministeris.
-Es pretén que la migració es dugui a terme a les 230 ambaixades i consolats repartits arreu del món.
-L'equip de TI de la Gendarmerie Nationale francesa, per tal de poder oferir un servei responsable i rendible a nivell nacional i per tal de reduir els creixents costos d'infraestructura de TI, va decidir a l'any 2004, revisar el seu entorn basat en Microsoft existent.
-Es va migrar a OpenOffice, Firefox i es va fer una actualització de PC's cap a Ubuntu.
-Això va provocar un estalvi de 2 milions d'euros anuals només en drets de llicència, també s'ha produït una reducció dràstica de les despeses en maquinari.
+On a European level, Germany’s Foreign Ministry started migrating its 11,000 computers to GNU/ Linus and free software applications in 2003.
+This enabled a considerable reduction in costs compared to those of other ministries.
+The aims are for 230 embassies and consulates around the world to migrate to open technologies.
+The Gendarmerie Nationale’s IT team decided to review their existing Microsoft based environment in 2014 so it could offer a responsible and profitable service at a national level and reduce its growing IT infrastructure costs.
+It migrated to OpenOffice and Firefox and its PCs were upgraded to Ubuntu.
+This resulted in savings of 2 million euros annually in license rights alone as well as a drastic reduction in hardware expenses.
 
-Italia, al 2014, va escollir el software lliure com la primera opció per a l'Administració Pública.
-Van crear un document titulat “_Guias para la evaluación comparativa (de software)_”, on s'aprèn un mètode a seguir per prendre la decisió correcta a l'hora d'escollir un programari.
-El cas italià és molt important perquè es preocupa no només per la norma, sinó per la seva implementació.
-La guia elaborada per l'Agència Digital Italiana es va redactar amb participació tant de la Free Software Foundation Europe, com dels representants de diferents empreses de programari privatiu.
+In 2014, Italy chose free software as the first choice for its public administration.
+It created a document titled, “Guides for comparative assessment (of software)”, which teaches people a method to follow to make the right decisions when choosing software.
+The Italian example is very important as it is concerned with not just regulations but also their implementation.
+The guide developed by the Italian Digital Agency was drafted with both the Free Software Foundation Europe and representatives from several proprietary software companies taking part.
 
-Les polítiques de tecnologies obertes per a l'administració pública europea son recolzades per l'acció de la Comissió Europea, que publica a la seva pròpia llicència lliure per a Administracions Públiques, la llicència EUPL, i centralitza els esforços en la seva plataforma “_Join Up_” on trobem literalment centenars d'experiències de migració o desenvolupament de programari lliure a les administracions europees.
+Open technology policies for the European public administrations are supported by the action of the European Commission, that publishes to his own free licence for Public Administrations, the EUPL, and centralises efforts in his “Join Up” platform where one finds literally hundreds of experiences of migration or development of free software for the European public authorities.
 
 The government in Brazil launched several digital inclusion projects in parallel in several areas, based on the installation of call centres, whose aim was to reduce digital exclusion, increase professional skills, distribute free software and increase public participation in new technologies.
 Free software has played a fundamental role in the creation of these centres and is enabling those who have just arrived in the digital world to do so with legal software.
 
-Al 2004, el govern de Malàisia va iniciar el Pla mestre per a fomentar, adoptar i desenvolupar l'ús del programari lliure al sector públic, posant en marxa l'_Open Source Competency Center_ (OSCC) que va establir-se com un centre de referència nacional per a dirigir i donar suport a l'aplicació del programari lliure a l'Administració.
+Malaysia’s public administration launched its Master Plan on 16 June 2004 to promote, adopt and develop the use of free software in the public sector.
+The Open Source Competency Centre (OSCC) went into operation.
+The OSCC became established as a national benchmark centre for managing and supporting the application of free software within the administration.
 
-Més recentment, al 2013, la Índia va invertir en ordinador amb programari lliure (Ubuntu) per als seus estudiants.
-És un dels programes més importants del món per a portàtils patrocinats pel govern, es porta a terme amb 1,5 milions d'ordinadors portàtils.
+More recently, in December 2013, India invested in computers with free software (Ubuntu) for its students.
+This is one of the most important programmes in the world for government-endorsed laptops, installed on 1.5 million laptop computers..
 
-Respecte als formats i dades obertes, el 23 de juny del 2006, el Consell de Ministres de Bèlgica a Brussel·les va aprovar la decisió de requerir que tots els intercanvis documentals en els serveis del Govern Federal Belga es produeixin en formats oberts i estàndards.
-Per tant, i expressament, només OpenDocument (ODF) va estar acceptat com a tal estàndard en aquesta decisió.
+As regards open data and standards, on 23rd June 2006, the Belgian Council of Ministers in Brussels approved the decision to require all document exchanged between services provided by the Federal Belgian Government to take place in open and standard formats.
+So only OpenDocument (ODF) was expressly accepted as such a standard in this decision.
 
-Al 2010 va néixer el projecte Open Data BCN, implantant el portal a l'any 2011, que té com a principal objectiu aprofitar al màxim els recursos públics disponibles, exposant la informació generada o custodiada per organismes públics, permetent el seu accés i reutilització per al bé comú i per al benefici de persones i entitats interessades.
-El projecte que s'emmarca dins de l'estratègia Barcelona Ciutat Digital, es basa en els principals estàndards i recomanacions internacionals, adoptant les característiques, de dades obertes per defecte, qualitat i quantitat d'informació, dades per a tothom, dades per a la millora de la governança i promoció a la innovació.
+The Open Data BCN project was created in 2010 and its portal installed in 2011, the main objective of which was to take full advantage of the public resources available, displaying information generated or held by public bodies, allowing access to and the reuse of data for the common good and for the benefit of the people and entities concerned.
+Part of the Barcelona Digital City strategy, the project is based on the main international standards and recommendations, adopting the features of open data by default, quality and quantity of information, data for everyone, data for the improvement of the governance and the promotion of innovation.
 
-Tal i com hem pogut veure en els casos que s'han descrit, des de fa molts anys les administracions estan desplegant un procés de transformació cap a metodologies àgils i programari lliure.
-En algunes d'elles ja s'han pogut demostrar de forma clara els seus beneficis, tant a nivell d'estalvi econòmic i mitigació de la obsolescència tecnològica amb la incorporació de programari lliure, com en la millora de la productivitat i adaptació a través de les metodologies àgils.
+As we have seen in the examples described above, authorities have been undergoing a process of transformation towards agile methodologies and free software for years.
+Some of these have already demonstrated clear benefits, not just in financial savings and mitigating technological obsolescence through the implementation of free software but also in improving productivity and adaptation through agile methodologies.
