@@ -22,7 +22,7 @@ What's more, the programme generates profiles and capacities in user centred des
 The programme will establish a framework for an open architecture and designs based on open standards, through a series of incremental changes with a clear governance structure, results orientated, with clear measurements and indicators and a shared roadmap.
 
 As a starting point, the programme defines the basic principles to guide the way for developing new services.
-These principles are contained in the Decalogue titled *Our Digital Service Stan-dards* (see Annexe 12.1):
+These principles are contained in the Decalogue titled *Our Digital Service Standards* (see Annexe 12.1):
 
 * *Multi disciplinary teams for services:* Setting up a multidisciplinary sustainable team that can design, build and operate a service, led by a qualified senior service manager, that has decision making responsibilities.
 
@@ -118,7 +118,7 @@ Internally, between April and June this year, within the Transformation Plan, fo
 In the first quarter of 2017, the agile methodology was applied to its first real project, the municipal management dashboard.
 This was used for defining the actions for introducing agile methodologies to the City Council, choosing the most appropriate projects to begin applying them, identifying the necessary external support needed and defining the internal training plan and the organisation and necessary tools for new practices.
 
-Between 2016 and 2017, the City Council launched *Decidim.Barcelona* and *Sentilo*, applications that hace been developed as its own free software.
+Between 2016 and 2017, the City Council launched *Decidim.Barcelona* and *Sentilo*, applications that been developed as its own free software.
 
 * *Decidim.barcelona* is the most advanced free software to be developed by Barcelona City Council and has enabled one of the biggest open, transparent and traceable participatory processes in the world among its citizens in the collective construction of the city's strategic plan.
 Its mission is to provide support, open up and broaden participation and democracy in Barcelona in the coming years, by advancing towards a greater ability for collaboration between the City Council and citizens, greater decision making freedom for people, with particular emphasis placed on the collective dimension, and ultimately, in creating and delivering social power.
@@ -134,7 +134,7 @@ Organisations besides Barcelona currently using Sentilo are: Terrassa, Reus, Cam
 In the field of open data, the Open Data BCN portal, the open data service of the Barcelona City Council must be highlighted.
 It is a multi language and easy to access space, where users can find a data set (dataset catalogs) that the Barcelona City Council makes available in a reusable way.
 The information is classified into 5 major issues (administration, population, territory, economy and company and city and services), each with its corresponding subthemes, allowing filtering.
-Since the beginning of July 2017, it has the “reusers” section, a community space aimed on the one hand at developers, to facilitate the work of this more technical group in the use of data, and on the other, “views and applications”, a section that gives visibility to projects carried out with data from the Portal.
+Since the beginning of July 2017, it has the “re-users” section, a community space aimed on the one hand at developers, to facilitate the work of this more technical group in the use of data, and on the other, “views and applications”, a section that gives visibility to projects carried out with data from the Portal.
 
 Barcelona already has experience and has started the path indicated by the Digital Transformation Plan, exceeding expected benefits.
 The moment has come to reinforce and formalize it.

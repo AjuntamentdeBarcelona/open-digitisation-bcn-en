@@ -186,4 +186,4 @@ To finish, the emblematic projects that have been pointed out in each one of the
 
 We also show how progression has been made, and consumption of the 2017 budget.
 
-image::open-digit-p30-roadmap-{lang}.svg[_FIGURA 4: Composició i execució del Pla de Mandat_, align="center"]
+image::open-digit-p30-roadmap-{lang}.svg[_FIGURE 4: Composition and execution of the Mandate Plan_, align="center"]

@@ -39,7 +39,7 @@ Given the current situation where changes come about at an incredibly fast pace 
 This is even more the case in the information and communication technologies (ICT) sector, where speed and agility are essential in the face of change.
 Hence the appearance of agile methodologies, given the difficulties and occasional failures experienced with traditional methods of project management.
 
-By “agile methodologies” we mean a group of methods, started under the “Agile Manifesto”footnote:[_Manifest àgil - font http://agilemanifesto.org_] of 2001, applied to the creation of software that bases its development on an iterative cycle, where needs and solutions evolve through collaboration between the various teams involved in the project.
+By “agile methodologies” we mean a group of methods, started under the “Agile Manifesto”footnote:[_Agile manifest - font http://agilemanifesto.org_] of 2001, applied to the creation of software that bases its development on an iterative cycle, where needs and solutions evolve through collaboration between the various teams involved in the project.
 Agile methodologies promote a disciplined approach to project management that encourages constant revision and adaptation to the needs of the users and to the changes.
 These methods provide an organised system that allows and facilitates teamwork and self organisation and helps to reduce development times.
 
