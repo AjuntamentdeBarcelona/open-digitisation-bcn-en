@@ -101,7 +101,7 @@ The lines of actions here are:
 
 * Creating a *Chief Data Analytics Office*, bringing new capabilities for privacy related data improvement and analysis.
 
-* Creating a *Data Challenges* programme to involve SMEs and companies in devising data-driven applications for solving the city’s challenges.
+* Creating a *Data Challenges* programme to involve SMEs and companies in devising data-driven applications for solving the city's challenges.
 
 We worked on the following initiatives during the first quarter of 2017:
 
@@ -124,7 +124,7 @@ Based on the lines of action that have been identified, we will be able to:
 
 * Create new and improved public services.
 
-* Achieve greater democratic quality, respecting citizens’ rights, data protection and access to information.
+* Achieve greater democratic quality, respecting citizens' rights, data protection and access to information.
 
 * Generate Transparency and accountability.
 

@@ -58,14 +58,14 @@ These documents include:
 
 * Public Procurement of Technology Guide.
 
-The responsible and ethical use of data is a key element within Barcelona City Council’s Digital Transformation Plan, especially the Open Data and Data Commons strategies, “Data Driven” projects and interoperability based on open data formats.
+The responsible and ethical use of data is a key element within Barcelona City Council's Digital Transformation Plan, especially the Open Data and Data Commons strategies, “Data Driven” projects and interoperability based on open data formats.
 The corresponding directives and their implementation will be developed in a new government measure on the Strategy for Responsible and Ethical Use of Data in Barcelona City Council, where its technical details, processes and responsibilities will be detailed.
 
 This government measure also explains how agile development methodologies will be applied in Barcelona City Council, by transforming vertical product teams into agile service orientated work groups through flagship projects.
 That is why the IMI is putting an Agile Technical Office and an agile projects team into operation.
 
 From a purely technological perspective, the objective is to create a public and open ecosystem and infrastructure composed of interoperable and reusable applications and services.
-So, the way in which the public authority operates must be changed through the use of open standards and free and open source software, by implementing open, public and well documented application programming interfaces (APIs) that provide access to the City Council’s open data for the purposes of enabling the ICT sector, and even other authorities, to collaborate with the City Council to deliver agile, open and ethical applications and digital services.
+So, the way in which the public authority operates must be changed through the use of open standards and free and open source software, by implementing open, public and well documented application programming interfaces (APIs) that provide access to the City Council's open data for the purposes of enabling the ICT sector, and even other authorities, to collaborate with the City Council to deliver agile, open and ethical applications and digital services.
 
 The services which will be first to benefit from these changes include: the new citizen help and information portal, mobile phone services for citizens, the new calendar of events and facilities in the city, the open city dashboard for citizens, the technology providers portal and the new mobile digital identity service.
 

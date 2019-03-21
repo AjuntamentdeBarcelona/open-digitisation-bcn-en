@@ -12,12 +12,12 @@ include::{partialsdir}/README.adoc[tag=metadata]
 *Services must be usable and accessible to everyone, including citizens with low levels of digital skills and people with disabilities.*
 
 The *Open Digitisation and Agile Service Development Programme* provides a focus on digital services to revitalise the City Council as a benchmark for technical innovation and excellence.
-It will bring quality digital services, adapted to the needs of citizens and orientated towards safeguarding citizens’ right to privacy (data privacy), services which, by making use of free and open source software and open standards, will end the dependency on proprietary formats, products and solutions (technological sovereignty).
+It will bring quality digital services, adapted to the needs of citizens and orientated towards safeguarding citizens' right to privacy (data privacy), services which, by making use of free and open source software and open standards, will end the dependency on proprietary formats, products and solutions (technological sovereignty).
 
-Digital public services need to become true assets of today’s society, with their reuse made possible in other cities.
+Digital public services need to become true assets of today's society, with their reuse made possible in other cities.
 That is why initiatives are needed in the area of public procurement of technology which can foster a more mature approach to the provision of technology to the public sector, by proposing multisupplier contracting models that promote competition and diversity of suppliers, enable the adoption of new innovative technologies and move away from big contracts, by creating a new market for open and collaborative SMEs.
 
-What’s more, the programme generates profiles and capacities in user centred design and agile methodologies, to bring the flexibility to and accelerate the development and delivery of these services, while opening public procurement and increasing its transparency, simplicity and objectivity, thereby providing a route to technological and data sovereignty.
+What's more, the programme generates profiles and capacities in user centred design and agile methodologies, to bring the flexibility to and accelerate the development and delivery of these services, while opening public procurement and increasing its transparency, simplicity and objectivity, thereby providing a route to technological and data sovereignty.
 
 The programme will establish a framework for an open architecture and designs based on open standards, through a series of incremental changes with a clear governance structure, results orientated, with clear measurements and indicators and a shared roadmap.
 
@@ -65,12 +65,12 @@ A coherent service experience will be created that enables time and resources to
 
 * *Defining a plan for managing the change for the transition of the service.*
 There will be continuity service plans to facilitate the transition between the current non digital service and the new digital service.
-Any interruption to citizens’ access to the service has to be avoided.
+Any interruption to citizens' access to the service has to be avoided.
 
 * *Feedback and continuous user assessment.*
 A plan will be implemented under which we will be continuously open to feedback from users and carrying out usability tests to gather users opinions continuously and thereby be able to improve the service.
 
-* *Measuring and publishing the service’s results.*
+* *Measuring and publishing the service's results.*
 Performance indicators of the service will be identified, establishing a reference point for each measurement and making a plan for enabling improvements.
 
 * *Making a maintenance and servicing plan for the digital service.*
@@ -120,7 +120,7 @@ This was used for defining the actions for introducing agile methodologies to th
 
 Between 2016 and 2017, the City Council launched *Decidim.Barcelona* and *Sentilo*, applications that hace been developed as its own free software.
 
-* *Decidim.barcelona* is the most advanced free software to be developed by Barcelona City Council and has enabled one of the biggest open, transparent and traceable participatory processes in the world among its citizens in the collective construction of the city’s strategic plan.
+* *Decidim.barcelona* is the most advanced free software to be developed by Barcelona City Council and has enabled one of the biggest open, transparent and traceable participatory processes in the world among its citizens in the collective construction of the city's strategic plan.
 Its mission is to provide support, open up and broaden participation and democracy in Barcelona in the coming years, by advancing towards a greater ability for collaboration between the City Council and citizens, greater decision making freedom for people, with particular emphasis placed on the collective dimension, and ultimately, in creating and delivering social power.
 Principles that are still in force today in many free software communities.
 Decidim is deployed in 9 cities in Catalonia and the Basque Country, as well as the French Commission for National Debate.

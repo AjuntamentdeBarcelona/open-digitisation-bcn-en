@@ -82,7 +82,7 @@ These projects are:
 
 * ASIA.
 
-* Municipal Sports Institution’s Information System.
+* Municipal Sports Institution's Information System.
 
 * E-Government.
 
@@ -123,11 +123,11 @@ The main points we need to work on are:
 
 * Implementing a migration plan and the gradual development of free software.
 
-* Publishing and sharing Barcelona City Council’s software and contents under free software and content licenses.
+* Publishing and sharing Barcelona City Council's software and contents under free software and content licenses.
 
 * Making changes to public procurement to boost the creation, use and reuse of free and open source software.
 
-* Requiring the use of open standards for the city’s technology, data and other information.
+* Requiring the use of open standards for the city's technology, data and other information.
 
 * Identifying development and/or migration opportunities to open architectures and systems in the short term.
 
@@ -181,7 +181,7 @@ The reference documents for this topic include the Public Procurement of Technol
 
 == Capability, culture and management of organisational changes
 
-This transformations will help train and develop existing teams, turning them into well-prepared internal teams with skills and capabilities to take full possession of the city’s digital services, data and architectural and procurement decisions.
+This transformations will help train and develop existing teams, turning them into well-prepared internal teams with skills and capabilities to take full possession of the city's digital services, data and architectural and procurement decisions.
 
 These skills and capabilities will be supported by a series of behaviours and practices (organisational culture) and an service oriented organisational structure, facilitating team collaboration with prompt support from external teams that can complement and enrich the knowledge of internal staff while opening up new professional opportunities.
 

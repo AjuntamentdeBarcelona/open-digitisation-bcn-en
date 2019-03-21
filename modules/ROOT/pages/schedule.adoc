@@ -1,4 +1,4 @@
-= Calendari d'implementació
+= Implementation schedule
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]

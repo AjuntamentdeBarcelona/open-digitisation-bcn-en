@@ -4,14 +4,14 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-The digital era is making profound and rapid changes to our society and, as a result, the model of citizens’ relations with companies and public authorities.
+The digital era is making profound and rapid changes to our society and, as a result, the model of citizens' relations with companies and public authorities.
 By bringing together digital transformation, citizen participation and transparency we are obliged to change the models used by public bodies so that they have the capacity to adapt to the new needs that are created.
 This transformation represents a great challenge for the City Council, with activities that are highly regulated by legal, economic and human resource requirements.
 
 The Open Digitisation Programme: Free Software and Agile Development of Services at Barcelona City Council aims to provide guidelines focused on service delivery and technological sovereignty in order to revitalise the entire municipality, by consolidating the governance of digital services, by generating profiles and capabilities in free and open source software and the ethical use of data and by transforming public procurement.
 The implementation of this approach, based on agile methodologies and the use of open technologies, has demonstrated efficiency in performance and costs, which the City Council must take advantage of.
 
-It is along these lines that the measure opens up public procurement and makes it more transparent, simple and objective, by creating the right conditions for participation from a diverse set of local industry talent and encouraging the country’s small and medium sized businesses.
+It is along these lines that the measure opens up public procurement and makes it more transparent, simple and objective, by creating the right conditions for participation from a diverse set of local industry talent and encouraging the country's small and medium sized businesses.
 Likewise, the current procurement processes are being reviewed to ensure technological and data sovereignty.
 Procurement procedures must also be transformed for the purposes of bringing them into line with the reality of the services offered to the public and making it possible for these measures to be applied.
 

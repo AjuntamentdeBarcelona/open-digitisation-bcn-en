@@ -4,7 +4,7 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-The measure sets out the Barcelona City Council’s *Open Digitisation: Free Software and Agile Service Development Programme*.
+The measure sets out the Barcelona City Council's *Open Digitisation: Free Software and Agile Service Development Programme*.
 
 This measure focuses on giving the City Council the ability to rapidly develop digital services centred on the real needs of citizens, achieving technological independence based on free software and the use of open standards, making data from Public Authorities available to citizens so that they bring them more value, and ensuring that they can access these services by safeguarding their right to privacy.
 
@@ -26,8 +26,8 @@ Els principals objectius son:
 
 . Revising procurement processes so that these objectives and innovations can be incorporated into relations with the industrial sector.
 
-. Improving access to the authority’s data, respecting privacy and evaluating the ethical risks of smart cities and large databases, including legal compliance with data protection regulations, by establishing an ethical code of technological practices and defining a data strategy.
+. Improving access to the authority's data, respecting privacy and evaluating the ethical risks of smart cities and large databases, including legal compliance with data protection regulations, by establishing an ethical code of technological practices and defining a data strategy.
 
-. Developing new technology acquisition guidelines that will be integrated into the general framework of public contracts as well as followed and implemented by all the City Council’s public contracts and civil servants.
+. Developing new technology acquisition guidelines that will be integrated into the general framework of public contracts as well as followed and implemented by all the City Council's public contracts and civil servants.
 
 Finally, we will present the flagship projects through which we will begin to achieve these objectives and implement the new practices that are necessary for this.

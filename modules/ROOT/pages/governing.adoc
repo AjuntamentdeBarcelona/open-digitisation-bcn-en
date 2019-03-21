@@ -12,14 +12,14 @@ Several mechanisms will be used for the governance of this process, including, n
 The main governance methods include:
 
 * *Commissioner for Digital Technology and Innovation.*
-One of her missions is to go through a process of redesigning and reorienting Barcelona’s technology and digital innovation strategies and policies through a process involving the active participation of key players in the city.
+One of her missions is to go through a process of redesigning and reorienting Barcelona's technology and digital innovation strategies and policies through a process involving the active participation of key players in the city.
 Two of the main areas are the digitisation of public services and the promotion of an innovative digital ecosystem, which includes the relationship between public authorities, citizens, businesses and the academic world.
 The commissioner has an office available for monitoring and promoting projects intended to ensure municipal coordination and measure the impact of the implementation of this programme.
 
 * *Barcelona Digital Transformation Commission.*
-This is a transversal municipal mechanism created to govern the definition and implementation of the Digital Transformation Plan and ensure its alignment with the City Council’s strategy.
-Part of its main function for prioritising and coordinating the City Council’s ICT initiatives will also involve analysing the situation and development of the digitisation programme and constituting a space for de-bate, discussion and proposals among the various municipal areas and sectors.
+This is a transversal municipal mechanism created to govern the definition and implementation of the Digital Transformation Plan and ensure its alignment with the City Council's strategy.
+Part of its main function for prioritising and coordinating the City Council's ICT initiatives will also involve analysing the situation and development of the digitisation programme and constituting a space for de-bate, discussion and proposals among the various municipal areas and sectors.
 
 * *Digital Innovation Committee.*
-This is a crosscutting municipal mechanism within the City Council’s various areas, tasked with putting the design and implementation of the innovation strategy and policies into operation.
+This is a crosscutting municipal mechanism within the City Council's various areas, tasked with putting the design and implementation of the innovation strategy and policies into operation.
 Its function will be to ensure, among other things, the involvement and alignment of the various municipal areas in this process.

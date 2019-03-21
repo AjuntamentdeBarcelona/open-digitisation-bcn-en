@@ -45,7 +45,7 @@
 :revdate: {docdate}
 //
 // MANDATORY. Short summary of the contents of the document.
-:_summary: The Open Digitisation Programme from Barcelona City Council’s Office for Technology and Digital Innovation
+:_summary: The Open Digitisation Programme from Barcelona City Council's Office for Technology and Digital Innovation
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling

@@ -4,16 +4,16 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== L'estàndard de serveis digitals
+== Digital services standard
 
-== El codi de pràctiques tecnològiques
+== Code of technological practices
 
-== Les metodologies àgils a l'ajuntament de barcelona
+== fast methodologies at barcelona city council
 
-== Guia de sobirania tecnològica
+== Technological sovereignty guide
 
-== Detalls del pla de migració a codi obert
+== Details of the open-code migration plan
 
-== Guia de compra pública de tecnologia
+== Public procurement of technology guide
 
-== Guia de compra pública innovadora
+== Innovative public procurement guide

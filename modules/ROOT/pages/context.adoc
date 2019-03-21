@@ -14,7 +14,7 @@ Three strategic areas have been defined within the PBCD, with the following obje
 
 image::open-digit-p9-axes-{lang}.svg[FIGURE 1, align="center"]
 
-The *Barcelona City Council’s Digital Transfor-mation Plan* (PTDA) is the comprehensive roadmap for ICT projects for this term of office, and for each Manager’s Office, in accordance with political priorities. This plan also includes projects for updating technology and adapting it to the new legal framework established under Act 39/2015 of 1 October, on Common Administrative Procedures for Public Authorities (LPCAP).
+The *Barcelona City Council's Digital Transfor-mation Plan* (PTDA) is the comprehensive roadmap for ICT projects for this term of office, and for each Manager's Office, in accordance with political priorities. This plan also includes projects for updating technology and adapting it to the new legal framework established under Act 39/2015 of 1 October, on Common Administrative Procedures for Public Authorities (LPCAP).
 
 == Legal Framework
 
@@ -28,7 +28,7 @@ Note that in addition to compliance with the LPACAP, we can find other legal tex
 
 * Act 19/2014, of 29 December, on transparency, access to public information and good government. The aim behind this Act is to provide citizens with information on the actions of regional public authorities and control and transparency in the destination of public money.
 
-* •	Act 11/2007, of 22 June, on citizens’ electronic access to public services, known as LAESCP.
+* •	Act 11/2007, of 22 June, on citizens' electronic access to public services, known as LAESCP.
 In this context, free software, open standards and open source technologies are considered the best option for the development of a technological model for eGovernment, tailored to the specific needs and objectives of public authorities, based on the strategic criteria of transparency, control, security, interoperability, access and conservation of information, economics, reuse of data and cooperation between organisations, which closed technologies can hardly compete against.
 
 * Royal Decree 4/2010, of 8 January, regulating the National Interoperability Scheme, which includes the security criteria and recommendations, standardisation and conservation of information, and the formats and applications that public authorities must take into account to ensure an appropriate level of organisational, semantic and technical interoperability for data, information and services that they manage in exercising their powers and to prevent discrimination against citizens on the grounds of their choice of technology.
@@ -71,7 +71,7 @@ Generating a virtuous circle where any SME, cooperative or freelance can offer t
 In a country where 90% of businesses are either small or medium-sized, this opens up a large window of opportunity.
 
 It also provides freedom to choose the municipal management of the IT infrastructure, without the need for expertise in exclusive, high-cost tools.
-The public and private jobs generated will be available to more of the territory’s professionals.
+The public and private jobs generated will be available to more of the territory's professionals.
 
 * It is *socially fair* because it guarantees the fundamental rights of citizens.
 Access to the source code and its collective control helps us to know what it does and to ensure that it does not have any gateway or security vulnerabilities.
@@ -114,7 +114,7 @@ Barcelona started introducing agile methodologies in 2013 for the development an
 Regarding experiences in free software at a local level, public authorities have for a long time now started implementing Open Technology policies and deploying free and open-source based services.
 Regionally, we have the exam-ple of the University of Lleida (UDL), which is a pioneering public university in the use of free software in Catalonia, together with the Open University of Catalonia (UOC).
 It has been using free systems for years, yielding excellent results.
-A new team, one of whose goals was to promote the use of free software, took over the vice-chancellor’s office in 2003 and commenced a migration process for all the systems.
+A new team, one of whose goals was to promote the use of free software, took over the vice-chancellor's office in 2003 and commenced a migration process for all the systems.
 In 2006, the Generalitat of Catalonia published its own Free Software roadmap.
 
 The University of Murcia signed up for the Open Academic Environment (OAE) in 2014,an international initiative to create a free software platform which allows the development of an open collaborative academic network.
@@ -123,10 +123,10 @@ The university started migrating its computers to Linux in 2015.
 This resulted in savings of €100,000 in user licenses and another €300,000 by not having to renew equipment.
 Recently Barcelona City Council released the code of Sentilo, its sensor data management platform, as free software and won an EU award for Sharing and Reuse.
 
-On a European level, Germany’s Foreign Ministry started migrating its 11,000 computers to GNU/ Linus and free software applications in 2003.
+On a European level, Germany's Foreign Ministry started migrating its 11,000 computers to GNU/ Linus and free software applications in 2003.
 This enabled a considerable reduction in costs compared to those of other ministries.
 The aims are for 230 embassies and consulates around the world to migrate to open technologies.
-The Gendarmerie Nationale’s IT team decided to review their existing Microsoft based environment in 2014 so it could offer a responsible and profitable service at a national level and reduce its growing IT infrastructure costs.
+The Gendarmerie Nationale's IT team decided to review their existing Microsoft based environment in 2014 so it could offer a responsible and profitable service at a national level and reduce its growing IT infrastructure costs.
 It migrated to OpenOffice and Firefox and its PCs were upgraded to Ubuntu.
 This resulted in savings of 2 million euros annually in license rights alone as well as a drastic reduction in hardware expenses.
 
@@ -140,7 +140,7 @@ Open technology policies for the European public administrations are supported b
 The government in Brazil launched several digital inclusion projects in parallel in several areas, based on the installation of call centres, whose aim was to reduce digital exclusion, increase professional skills, distribute free software and increase public participation in new technologies.
 Free software has played a fundamental role in the creation of these centres and is enabling those who have just arrived in the digital world to do so with legal software.
 
-Malaysia’s public administration launched its Master Plan on 16 June 2004 to promote, adopt and develop the use of free software in the public sector.
+Malaysia's public administration launched its Master Plan on 16 June 2004 to promote, adopt and develop the use of free software in the public sector.
 The Open Source Competency Centre (OSCC) went into operation.
 The OSCC became established as a national benchmark centre for managing and supporting the application of free software within the administration.
 
