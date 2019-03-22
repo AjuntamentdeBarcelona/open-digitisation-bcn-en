@@ -136,7 +136,9 @@ The Italian example is very important as it is concerned with not just regulatio
 The guide developed by the Italian Digital Agency was drafted with both the Free Software Foundation Europe and representatives from several proprietary software companies taking part.
 
 Open technology policies for the European public administrations are supported by the action of the European Commission, that publishes to his own free licence for Public Administrations, the EUPL, and centralises efforts in his “Join Up” platform where one finds literally hundreds of experiences of migration or development of free software for the European public authorities.
-
+////
+text diferent del català
+////
 The government in Brazil launched several digital inclusion projects in parallel in several areas, based on the installation of call centres, whose aim was to reduce digital exclusion, increase professional skills, distribute free software and increase public participation in new technologies.
 Free software has played a fundamental role in the creation of these centres and is enabling those who have just arrived in the digital world to do so with legal software.
 
@@ -146,7 +148,9 @@ The OSCC became established as a national benchmark centre for managing and supp
 
 More recently, in December 2013, India invested in computers with free software (Ubuntu) for its students.
 This is one of the most important programmes in the world for government-endorsed laptops, installed on 1.5 million laptop computers..
-
+////
+text diferent del català
+////
 As regards open data and standards, on 23rd June 2006, the Belgian Council of Ministers in Brussels approved the decision to require all document exchanged between services provided by the Federal Belgian Government to take place in open and standard formats.
 So only OpenDocument (ODF) was expressly accepted as such a standard in this decision.
 
